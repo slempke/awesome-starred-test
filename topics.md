@@ -1520,6 +1520,7 @@
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs.
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [elementary/shortcut-overlay](https://github.com/elementary/shortcut-overlay) - A native, OS-wide shortcut overlay
@@ -2526,7 +2527,7 @@
 - [nextcloud/bookmarks](https://github.com/nextcloud/bookmarks) - 🔖 Bookmark app for Nextcloud
 - [Kiuryy/Bookmark_Sidebar](https://github.com/Kiuryy/Bookmark_Sidebar) - Browser extension, which adds a toggleable sidebar with all your bookmarks on the left or right side of your screen.
 - [EPPlusSoftware/EPPlus.Sample.NetCore](https://github.com/EPPlusSoftware/EPPlus.Sample.NetCore) - EPPlus samples for .NET Core. More details in Readme.md.
-- [MiniExcel/MiniExcel](https://github.com/MiniExcel/MiniExcel) - Fast, Low-Memory, Easy Excel .NET helper to import/export/template spreadsheet
+- [mini-software/MiniExcel](https://github.com/mini-software/MiniExcel) - Fast, Low-Memory, Easy Excel .NET helper to import/export/template spreadsheet
 - [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
 - [go2ismail/Asp.Net-Core-Inventory-Order-Management-System](https://github.com/go2ismail/Asp.Net-Core-Inventory-Order-Management-System) - Project example Asp.Net Core Mvc implementation of inventory order management system. warehouse, product, vendor, customer, purchase order, sales order, shipment, goods receive and more.
 - [creativetimofficial/soft-ui-dashboard](https://github.com/creativetimofficial/soft-ui-dashboard) - Soft UI Dashboard - Free and OpenSource Bootstrap 5 Dashboard
