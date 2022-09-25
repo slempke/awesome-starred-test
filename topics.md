@@ -2469,7 +2469,7 @@
 - [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
 - [keras-team/keras-io](https://github.com/keras-team/keras-io) - Keras documentation, hosted live at keras.io
 - [workos/awesome-developer-experience](https://github.com/workos/awesome-developer-experience) - 🤘 A curated list of DX (Developer Experience) resources
-- [wereturtle/ghostwriter](https://github.com/wereturtle/ghostwriter) - ghostwriter is a cross-platform, aesthetic, distraction-free Markdown editor.
+- [KDE/ghostwriter](https://github.com/KDE/ghostwriter) - ghostwriter is a cross-platform, aesthetic, distraction-free Markdown editor.
 - [Murderlon/cyberpunk-iterm](https://github.com/Murderlon/cyberpunk-iterm) - 👾 Hacker colorscheme for iTerm
 - [prometheux-ar/cyberpunk](https://github.com/prometheux-ar/cyberpunk) - A theme for visual studio code
 - [spleenware/ripple](https://github.com/spleenware/ripple) - Arduino Firmware for Ripple LoRa mesh
