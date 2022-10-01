@@ -1500,6 +1500,7 @@
 - [org-roam/org-roam](https://github.com/org-roam/org-roam) - Rudimentary Roam replica with Org-mode
 - [NuGetPackageExplorer/NuGetPackageExplorer](https://github.com/NuGetPackageExplorer/NuGetPackageExplorer) - Create, update and deploy Nuget Packages with a GUI
 - [PowerShell/PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer) - Download ScriptAnalyzer from PowerShellGallery
+- [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [sb2nov/mac-setup](https://github.com/sb2nov/mac-setup) - Installing Development environment on macOS
 - [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
@@ -2478,7 +2479,7 @@
 - [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
 - [keras-team/keras-io](https://github.com/keras-team/keras-io) - Keras documentation, hosted live at keras.io
 - [workos/awesome-developer-experience](https://github.com/workos/awesome-developer-experience) - 🤘 A curated list of DX (Developer Experience) resources
-- [KDE/ghostwriter](https://github.com/KDE/ghostwriter) - ghostwriter is a cross-platform, aesthetic, distraction-free Markdown editor.
+- [KDE/ghostwriter](https://github.com/KDE/ghostwriter) - Text editor for Markdown
 - [Murderlon/cyberpunk-iterm](https://github.com/Murderlon/cyberpunk-iterm) - 👾 Hacker colorscheme for iTerm
 - [prometheux-ar/cyberpunk](https://github.com/prometheux-ar/cyberpunk) - A theme for visual studio code
 - [spleenware/ripple](https://github.com/spleenware/ripple) - Arduino Firmware for Ripple LoRa mesh
@@ -2626,7 +2627,6 @@
 - [crisrojas/Zettels](https://github.com/crisrojas/Zettels) - Zettels Hugo Theme
 - [randyrants/sharpkeys](https://github.com/randyrants/sharpkeys) - SharpKeys is a utility that manages a Registry key that allows Windows to remap one key to any other key.
 - [OrchardCMS/OrchardCore](https://github.com/OrchardCMS/OrchardCore) - Orchard Core is an open-source modular and multi-tenant application framework built with ASP.NET Core, and a content management system (CMS) built on top of that framework.
-- [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [denisidoro/cheats](https://github.com/denisidoro/cheats) - Community-sourced cheatsheets for navi
 - [github-tools/github-release-notes](https://github.com/github-tools/github-release-notes) - Node module to create a release or a changelog from a tag and uses issues or commits to creating the release notes.
 - [PostgresApp/PostgresApp](https://github.com/PostgresApp/PostgresApp) - The easiest way to get started with PostgreSQL on the Mac
