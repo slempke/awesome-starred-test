@@ -262,7 +262,7 @@
 
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
-- [narze/dotfiles](https://github.com/narze/dotfiles) - macOS / Codespaces dotfiles with 1-line setup script. Tested on Apple Silicon Macs. Supports both zsh and fish. Now managed with https://github.com/twpayne/chezmoi
+- [narze/dotfiles](https://github.com/narze/dotfiles) - macOS / Linux / Codespaces dotfiles with 1-line setup script. Tested on Apple Silicon Macs. Supports both zsh and fish. Now managed with https://github.com/twpayne/chezmoi
 - [geerlingguy/ansible-vagrant-examples](https://github.com/geerlingguy/ansible-vagrant-examples) - Ansible examples using Vagrant to deploy to local VMs.
 
 ## api 
@@ -1613,7 +1613,7 @@
 - [bkuhlmann/mac_os](https://github.com/bkuhlmann/mac_os) - Shell scripts for automated macOS machine setup.
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [ctaylo21/jarvis](https://github.com/ctaylo21/jarvis) - Dotfiles for a powerful, web development-focused environment powered by Neovim, iTerm2, tmux, and zsh
-- [narze/dotfiles](https://github.com/narze/dotfiles) - macOS / Codespaces dotfiles with 1-line setup script. Tested on Apple Silicon Macs. Supports both zsh and fish. Now managed with https://github.com/twpayne/chezmoi
+- [narze/dotfiles](https://github.com/narze/dotfiles) - macOS / Linux / Codespaces dotfiles with 1-line setup script. Tested on Apple Silicon Macs. Supports both zsh and fish. Now managed with https://github.com/twpayne/chezmoi
 - [danielbayley/homebrew-alfred](https://github.com/danielbayley/homebrew-alfred) - Manage @Alfredapp with @Homebrew.
 - [mac-cleanup/mac-cleanup-sh](https://github.com/mac-cleanup/mac-cleanup-sh) - 🗑️ Cleanup script for macOS (DEPRECATED)
 - [rcmdnk/homebrew-file](https://github.com/rcmdnk/homebrew-file) - Brewfile manager for  Homebrew
@@ -2085,7 +2085,7 @@
 - [subethaedit/SubEthaEdit](https://github.com/subethaedit/SubEthaEdit) - General purpose plain text editor for macOS. Widely known for its live collaboration feature.
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [Mortennn/Dozer](https://github.com/Mortennn/Dozer) - Hide menu bar icons on macOS
-- [narze/dotfiles](https://github.com/narze/dotfiles) - macOS / Codespaces dotfiles with 1-line setup script. Tested on Apple Silicon Macs. Supports both zsh and fish. Now managed with https://github.com/twpayne/chezmoi
+- [narze/dotfiles](https://github.com/narze/dotfiles) - macOS / Linux / Codespaces dotfiles with 1-line setup script. Tested on Apple Silicon Macs. Supports both zsh and fish. Now managed with https://github.com/twpayne/chezmoi
 - [inket/stts](https://github.com/inket/stts) - A simple macOS app for monitoring the status of cloud services
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [thompsonate/Shifty](https://github.com/thompsonate/Shifty) - ☀️ A macOS menu bar app that gives you more control over Night Shift.
@@ -3666,7 +3666,7 @@
 - [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-stag
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
-- [narze/dotfiles](https://github.com/narze/dotfiles) - macOS / Codespaces dotfiles with 1-line setup script. Tested on Apple Silicon Macs. Supports both zsh and fish. Now managed with https://github.com/twpayne/chezmoi
+- [narze/dotfiles](https://github.com/narze/dotfiles) - macOS / Linux / Codespaces dotfiles with 1-line setup script. Tested on Apple Silicon Macs. Supports both zsh and fish. Now managed with https://github.com/twpayne/chezmoi
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [kdeldycke/dotfiles](https://github.com/kdeldycke/dotfiles) - 🍎 macOS dotfiles for Python developers.
 - [ahmedelgabri/dotfiles](https://github.com/ahmedelgabri/dotfiles) - ~ 🍭 ~
