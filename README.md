@@ -238,6 +238,7 @@
 
 ## C++ 
 
+- [makeabilitylab/arduino](https://github.com/makeabilitylab/arduino) - All things Arduino (for teaching and beyond!)
 - [KDE/ghostwriter](https://github.com/KDE/ghostwriter) - Text editor for Markdown
 - [spleenware/ripple](https://github.com/spleenware/ripple) - Arduino Firmware for Ripple LoRa mesh
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
@@ -321,7 +322,7 @@
 
 ## Clojure 
 
-- [borkdude/jet](https://github.com/borkdude/jet) - CLI to transform between JSON, EDN and Transit, powered with a minimal query language.
+- [borkdude/jet](https://github.com/borkdude/jet) - CLI to transform between JSON, EDN, YAML and Transit, powered with a minimal query language.
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 - [yqrashawn/GokuRakuJoudo](https://github.com/yqrashawn/GokuRakuJoudo) - config karabiner with ease
 
