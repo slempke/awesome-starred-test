@@ -585,7 +585,7 @@
 
 ## bitcoin 
 
-- [ChristianChiarulli/Bitcoin-FullNode-Setup](https://github.com/ChristianChiarulli/Bitcoin-FullNode-Setup) - Tutorial for Setting up and Interacting with a Bitcoin FullNode
+- [ChristianChiarulli/Bitcoin-FullNode-Setup](https://github.com/ChristianChiarulli/Bitcoin-FullNode-Setup) - ₿ Tutorial for Setting up and Interacting with a Bitcoin FullNode
 
 ## blockchain 
 
@@ -1467,7 +1467,7 @@
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, open-source session replay.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python
-- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - An IDE layer for Neovim with sane defaults. Completely free and community driven.
+- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [MongoEngine/mongoengine](https://github.com/MongoEngine/mongoengine) - A Python Object-Document-Mapper for working with MongoDB
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
@@ -2038,7 +2038,7 @@
 ## lua 
 
 - [LunarVim/nvim-basic-ide](https://github.com/LunarVim/nvim-basic-ide) - This is my attempt at a basic stable starting point for a Neovim IDE.
-- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - An IDE layer for Neovim with sane defaults. Completely free and community driven.
+- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 14ms to 67ms
 - [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) - A file explorer tree for neovim written in lua
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
@@ -2285,7 +2285,7 @@
 ## neovim 
 
 - [LunarVim/nvim-basic-ide](https://github.com/LunarVim/nvim-basic-ide) - This is my attempt at a basic stable starting point for a Neovim IDE.
-- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - An IDE layer for Neovim with sane defaults. Completely free and community driven.
+- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [mcchrish/nnn.vim](https://github.com/mcchrish/nnn.vim) - File manager for vim/neovim powered by n³
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 14ms to 67ms
 - [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) - A file explorer tree for neovim written in lua
@@ -3406,7 +3406,7 @@
 ## raspberry-pi 
 
 - [homebridge/homebridge-raspbian-image](https://github.com/homebridge/homebridge-raspbian-image) - Official Homebridge Raspberry Pi Image based on Raspberry Pi OS Lite.
-- [ChristianChiarulli/Bitcoin-FullNode-Setup](https://github.com/ChristianChiarulli/Bitcoin-FullNode-Setup) - Tutorial for Setting up and Interacting with a Bitcoin FullNode
+- [ChristianChiarulli/Bitcoin-FullNode-Setup](https://github.com/ChristianChiarulli/Bitcoin-FullNode-Setup) - ₿ Tutorial for Setting up and Interacting with a Bitcoin FullNode
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [rcarmo/raspi-cluster](https://github.com/rcarmo/raspi-cluster) - Notes and scripts for setting up (yet another) Raspberry Pi computing cluster
@@ -3966,7 +3966,7 @@
 ## vim 
 
 - [LunarVim/nvim-basic-ide](https://github.com/LunarVim/nvim-basic-ide) - This is my attempt at a basic stable starting point for a Neovim IDE.
-- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - An IDE layer for Neovim with sane defaults. Completely free and community driven.
+- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [mcchrish/nnn.vim](https://github.com/mcchrish/nnn.vim) - File manager for vim/neovim powered by n³
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 14ms to 67ms
 - [glepnir/dashboard-nvim](https://github.com/glepnir/dashboard-nvim) - vim dashboard
