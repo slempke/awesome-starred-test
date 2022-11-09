@@ -585,7 +585,7 @@
 
 ## bitcoin 
 
-- [ChristianChiarulli/Bitcoin-FullNode-Setup](https://github.com/ChristianChiarulli/Bitcoin-FullNode-Setup) - ₿ Tutorial for Setting up and Interacting with a Bitcoin FullNode
+- [raspinode/bitcoin-full-node](https://github.com/raspinode/bitcoin-full-node) - ₿ Tutorial for Setting up and Interacting with a Bitcoin FullNode
 
 ## blockchain 
 
@@ -1982,6 +1982,7 @@
 ## linux 
 
 - [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
+- [raspinode/bitcoin-full-node](https://github.com/raspinode/bitcoin-full-node) - ₿ Tutorial for Setting up and Interacting with a Bitcoin FullNode
 - [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.c
 - [notion-enhancer/desktop](https://github.com/notion-enhancer/desktop) - an enhancer/customiser for the all-in-one productivity workspace notion.so (app)
 - [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) - xrdp: an open source RDP server
@@ -3405,7 +3406,7 @@
 ## raspberry-pi 
 
 - [homebridge/homebridge-raspbian-image](https://github.com/homebridge/homebridge-raspbian-image) - Official Homebridge Raspberry Pi Image based on Raspberry Pi OS Lite.
-- [ChristianChiarulli/Bitcoin-FullNode-Setup](https://github.com/ChristianChiarulli/Bitcoin-FullNode-Setup) - ₿ Tutorial for Setting up and Interacting with a Bitcoin FullNode
+- [raspinode/bitcoin-full-node](https://github.com/raspinode/bitcoin-full-node) - ₿ Tutorial for Setting up and Interacting with a Bitcoin FullNode
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [rcarmo/raspi-cluster](https://github.com/rcarmo/raspi-cluster) - Notes and scripts for setting up (yet another) Raspberry Pi computing cluster
