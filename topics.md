@@ -1457,7 +1457,6 @@
 
 ## hacktoberfest 
 
-- [G-Two/smoke-x-receiver](https://github.com/G-Two/smoke-x-receiver) - An ESP32+LoRa application to bridge a ThermoWorks Smoke X remote thermometer to Home Assistant via MQTT
 - [LunarVim/nvim-basic-ide](https://github.com/LunarVim/nvim-basic-ide) - 🪨 This is my attempt at a basic stable starting point for a Neovim IDE.
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
@@ -2480,6 +2479,7 @@
 ## others 
 
 - [makeabilitylab/arduino](https://github.com/makeabilitylab/arduino) - All things Arduino (for teaching and beyond!)
+- [G-Two/smoke-x-receiver](https://github.com/G-Two/smoke-x-receiver) - An ESP32+LoRa application to bridge a ThermoWorks Smoke X remote thermometer to Home Assistant via MQTT
 - [ttscoff/gather-cli](https://github.com/ttscoff/gather-cli) - 
 - [farmergreg/kinesis-advantage-2](https://github.com/farmergreg/kinesis-advantage-2) - Keyboard layouts and macros for the Kinesis Advantage 2 keyboard.
 - [Runeword/Advantage2](https://github.com/Runeword/Advantage2) - 
