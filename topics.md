@@ -7,6 +7,7 @@
 
 - [ajax](#ajax)
 - [algorithm](#algorithm)
+- [analytics](#analytics)
 - [android](#android)
 - [angular](#angular)
 - [ansible](#ansible)
@@ -230,6 +231,11 @@
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 - [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
+
+## analytics 
+
+- [wangkanai/wangkanai](https://github.com/wangkanai/wangkanai) - Wangkanai is a collection of ASP.NET Core libraries that was developed internally over time and share common usage that would benefit everyone in the open source community as a whole.
+- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Headless Business Intelligence for Building Data Applications
 
 ## android 
 
@@ -2586,7 +2592,6 @@
 - [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
 - [go2ismail/Asp.Net-Core-Inventory-Order-Management-System](https://github.com/go2ismail/Asp.Net-Core-Inventory-Order-Management-System) - Project example Asp.Net Core Mvc implementation of inventory order management system. warehouse, product, vendor, customer, purchase order, sales order, shipment, goods receive and more.
 - [creativetimofficial/soft-ui-dashboard](https://github.com/creativetimofficial/soft-ui-dashboard) - Soft UI Dashboard - Free and OpenSource Bootstrap 5 Dashboard
-- [wangkanai/wangkanai](https://github.com/wangkanai/wangkanai) - Wangkanai is a collection of ASP.NET Core libraries that was developed internally over time and share common usage that would benefit everyone in the open source community as a whole.
 - [jsakamoto/BlazorMinimumTemplates](https://github.com/jsakamoto/BlazorMinimumTemplates) - Templates for ASP.NET Core Blazor without any js and css libraries.
 - [Tewr/BlazorFileReader](https://github.com/Tewr/BlazorFileReader) - Library for creating read-only file streams from file input elements or drop targets in Blazor.
 - [jondot/awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
