@@ -334,7 +334,7 @@
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 - [reHackable/awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) - A curated list of projects related to the reMarkable tablet
-- [bmarvinb/software-engineer-interview-preparation](https://github.com/bmarvinb/software-engineer-interview-preparation) - Interview questions, links and notes about Software Engineering
+- [bmarvinb/software-engineer-interview-preparation](https://github.com/bmarvinb/software-engineer-interview-preparation) - Software Engineer interview questions, links and notes
 - [jdsutton/Technical-Interview-Megarepo](https://github.com/jdsutton/Technical-Interview-Megarepo) - Study materials for SE/CS technical interviews
 - [SaiGonSoftware/Awesome-CMS-Core](https://github.com/SaiGonSoftware/Awesome-CMS-Core) - Awesome CMS Core is an open source CMS built using ASP.Net Core & ReactJS with module seperation concern in mind and provide lastest trend of technology like .Net Core, React, Webpack, SASS, Backgroun
 - [codeverland/bookmarks](https://github.com/codeverland/bookmarks) - :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.codever.land
@@ -755,7 +755,7 @@
 
 ## code-quality 
 
-- [bmarvinb/software-engineer-interview-preparation](https://github.com/bmarvinb/software-engineer-interview-preparation) - Interview questions, links and notes about Software Engineering
+- [bmarvinb/software-engineer-interview-preparation](https://github.com/bmarvinb/software-engineer-interview-preparation) - Software Engineer interview questions, links and notes
 
 ## code-review 
 
@@ -938,7 +938,7 @@
 ## design 
 
 - [alyssaxuu/animockup](https://github.com/alyssaxuu/animockup) - Create animated mockups in the browser 🔥
-- [bmarvinb/software-engineer-interview-preparation](https://github.com/bmarvinb/software-engineer-interview-preparation) - Interview questions, links and notes about Software Engineering
+- [bmarvinb/software-engineer-interview-preparation](https://github.com/bmarvinb/software-engineer-interview-preparation) - Software Engineer interview questions, links and notes
 - [AnimaApp/Auto-Layout](https://github.com/AnimaApp/Auto-Layout) - Auto Layout for Sketch
 - [andreasbm/web-skills](https://github.com/andreasbm/web-skills) - A visual overview of useful skills to learn as a web developer
 - [creativetimofficial/argon-design-system](https://github.com/creativetimofficial/argon-design-system) - Argon - Design System for Bootstrap 4 by Creative Tim
@@ -3266,7 +3266,7 @@
 
 ## programming 
 
-- [bmarvinb/software-engineer-interview-preparation](https://github.com/bmarvinb/software-engineer-interview-preparation) - Interview questions, links and notes about Software Engineering
+- [bmarvinb/software-engineer-interview-preparation](https://github.com/bmarvinb/software-engineer-interview-preparation) - Software Engineer interview questions, links and notes
 - [codeverland/bookmarks](https://github.com/codeverland/bookmarks) - :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.codever.land
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [zero-equals-false/awesome-programming-books](https://github.com/zero-equals-false/awesome-programming-books) - 📚 A curated list of awesome programming books (Algorithms and data structures, Artificial intelligence, Software Architecture, Human–computer interaction, Operating Systems, Database Systems, IT Secur
@@ -3622,7 +3622,7 @@
 
 ## security 
 
-- [bmarvinb/software-engineer-interview-preparation](https://github.com/bmarvinb/software-engineer-interview-preparation) - Interview questions, links and notes about Software Engineering
+- [bmarvinb/software-engineer-interview-preparation](https://github.com/bmarvinb/software-engineer-interview-preparation) - Software Engineer interview questions, links and notes
 - [ChALkeR/notes](https://github.com/ChALkeR/notes) - Some public notes
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
