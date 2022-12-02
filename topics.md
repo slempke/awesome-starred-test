@@ -1543,7 +1543,6 @@
 - [tinysearch/tinysearch](https://github.com/tinysearch/tinysearch) - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [Flexget/Flexget](https://github.com/Flexget/Flexget) - The official FlexGet repository
-- [material-theme/vsc-material-theme](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
 - [fenetikm/falcon](https://github.com/fenetikm/falcon) - A colour scheme for terminals, Vim and friends.
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
@@ -2211,7 +2210,7 @@
 - [DavidWells/markdown-magic](https://github.com/DavidWells/markdown-magic) - 💫  Automatically format markdown files using comment blocks. Update contents via custom transforms, external data sources & your source code.
 - [DavidAnson/vscode-markdownlint](https://github.com/DavidAnson/vscode-markdownlint) - Markdown linting and style checking for Visual Studio Code
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
-- [lunaryorn/mdcat](https://github.com/lunaryorn/mdcat) - cat for markdown
+- [swsnr/mdcat](https://github.com/swsnr/mdcat) - cat for markdown
 - [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
 - [preservim/vim-markdown](https://github.com/preservim/vim-markdown) - Markdown Vim Mode
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
@@ -2240,7 +2239,6 @@
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-- [material-theme/vsc-material-theme](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
 - [material-components/material-components-ios](https://github.com/material-components/material-components-ios) - [In maintenance mode] Modular and customizable Material Design UI components for iOS
 - [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒7000+ Material Design Icons from the Community
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
@@ -3587,7 +3585,7 @@
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [sharkdp/diskus](https://github.com/sharkdp/diskus) - A minimal, fast alternative to 'du -sh'
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
-- [lunaryorn/mdcat](https://github.com/lunaryorn/mdcat) - cat for markdown
+- [swsnr/mdcat](https://github.com/swsnr/mdcat) - cat for markdown
 - [dbrgn/tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
@@ -3663,7 +3661,7 @@
 - [hnarayanan/shpotify](https://github.com/hnarayanan/shpotify) - A command-line interface to Spotify.
 - [skywind3000/z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
-- [MikeMcQuaid/dotfiles](https://github.com/MikeMcQuaid/dotfiles) - :computer: My dot files shared between machines.
+- [MikeMcQuaid/dotfiles](https://github.com/MikeMcQuaid/dotfiles) - 💻 My dot files shared between machines.
 - [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
 - [sharkdp/shell-functools](https://github.com/sharkdp/shell-functools) - Functional programming tools for the shell
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
@@ -3862,7 +3860,7 @@
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
-- [lunaryorn/mdcat](https://github.com/lunaryorn/mdcat) - cat for markdown
+- [swsnr/mdcat](https://github.com/swsnr/mdcat) - cat for markdown
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [athityakumar/colorls](https://github.com/athityakumar/colorls) - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. :tada:
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
@@ -4068,7 +4066,6 @@
 - [prettier/prettier-vscode](https://github.com/prettier/prettier-vscode) - Visual Studio Code extension for Prettier
 - [kbshl/alfred-vscode](https://github.com/kbshl/alfred-vscode) - Alfred 3 workflow that allows you to browse and open Visual Studio Code projects or simply open specified folders/files
 - [DavidAnson/vscode-markdownlint](https://github.com/DavidAnson/vscode-markdownlint) - Markdown linting and style checking for Visual Studio Code
-- [material-theme/vsc-material-theme](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
 - [microsoft/Git-Credential-Manager-for-Windows](https://github.com/microsoft/Git-Credential-Manager-for-Windows) - Secure Git credential storage for Windows with support for Visual Studio Team Services, GitHub, and Bitbucket multi-factor authentication.
 - [formulahendry/vscode-code-runner](https://github.com/formulahendry/vscode-code-runner) - Code Runner for Visual Studio Code
 - [kdeldycke/dotfiles](https://github.com/kdeldycke/dotfiles) - 🍎 macOS dotfiles for Python developers.
