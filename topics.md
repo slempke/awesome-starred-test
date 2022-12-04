@@ -181,6 +181,7 @@
 - [shell](#shell)
 - [sketch](#sketch)
 - [software](#software)
+- [solidity](#solidity)
 - [spacevim](#spacevim)
 - [spring](#spring)
 - [spring-boot](#spring-boot)
@@ -3736,6 +3737,10 @@
 - [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+
+## solidity 
+
+- [ethereum/remix](https://github.com/ethereum/remix) - This has been moved to https://github.com/ethereum/remix-project
 
 ## spacevim 
 
