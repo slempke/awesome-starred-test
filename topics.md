@@ -622,6 +622,7 @@
 
 ## c 
 
+- [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) - xrdp: an open source RDP server
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
@@ -1473,6 +1474,7 @@
 
 ## hacktoberfest 
 
+- [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [LunarVim/nvim-basic-ide](https://github.com/LunarVim/nvim-basic-ide) - 🪨 This is my attempt at a basic stable starting point for a Neovim IDE.
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
