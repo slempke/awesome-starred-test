@@ -1603,7 +1603,6 @@
 - [Vaelatern/init-dotfiles](https://github.com/Vaelatern/init-dotfiles) - Quickly get your dotfiles up and running
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons) - Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [MartinSeeler/iterm2-material-design](https://github.com/MartinSeeler/iterm2-material-design) - A theme / color scheme for iTerm2 based on Google's Material Design Color Palette
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
@@ -2657,7 +2656,7 @@
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar
 - [commonmark/commonmark.js](https://github.com/commonmark/commonmark.js) - CommonMark parser and renderer in JavaScript
 - [RobertHajbok/FullCalendarMVC](https://github.com/RobertHajbok/FullCalendarMVC) - ASP.NET MVC HTML helper for https://github.com/fullcalendar/fullcalendar
-- [fullcalendar/fullcalendar-scheduler](https://github.com/fullcalendar/fullcalendar-scheduler) - FullCalendar add-on for displaying events and resources
+- [fullcalendar/fullcalendar-workspace](https://github.com/fullcalendar/fullcalendar-workspace) - FullCalendar add-on for displaying events and resources
 - [dotnet/cli](https://github.com/dotnet/cli) - The .NET Core command-line (CLI) tools, used for building .NET Core apps and libraries through your development flow (compiling, NuGet package management, running, testing, ...).
 - [mcintyre321/mvc.jquery.datatables](https://github.com/mcintyre321/mvc.jquery.datatables) - ASP MVC Helpers for connecting IQueryables with the amazing DataTables.net plugin
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
