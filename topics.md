@@ -2653,10 +2653,10 @@
 - [harvesthq/chosen](https://github.com/harvesthq/chosen) - Deprecated - Chosen is a library for making long, unwieldy select boxes more friendly.
 - [themesberg/volt-bootstrap-5-dashboard](https://github.com/themesberg/volt-bootstrap-5-dashboard) - Free and open source Bootstrap 5 Admin Dashboard Template with vanilla Javascript
 - [FritzAndFriends/ResourceManagement](https://github.com/FritzAndFriends/ResourceManagement) - A resource management application originally designed for Sebastian Riding Associates.
-- [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar
+- [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar in JavaScript
 - [commonmark/commonmark.js](https://github.com/commonmark/commonmark.js) - CommonMark parser and renderer in JavaScript
 - [RobertHajbok/FullCalendarMVC](https://github.com/RobertHajbok/FullCalendarMVC) - ASP.NET MVC HTML helper for https://github.com/fullcalendar/fullcalendar
-- [fullcalendar/fullcalendar-workspace](https://github.com/fullcalendar/fullcalendar-workspace) - FullCalendar add-on for displaying events and resources
+- [fullcalendar/fullcalendar-workspace](https://github.com/fullcalendar/fullcalendar-workspace) - Premium full-sized drag & drop calendar & scheduler in JavaScript
 - [dotnet/cli](https://github.com/dotnet/cli) - The .NET Core command-line (CLI) tools, used for building .NET Core apps and libraries through your development flow (compiling, NuGet package management, running, testing, ...).
 - [mcintyre321/mvc.jquery.datatables](https://github.com/mcintyre321/mvc.jquery.datatables) - ASP MVC Helpers for connecting IQueryables with the amazing DataTables.net plugin
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
