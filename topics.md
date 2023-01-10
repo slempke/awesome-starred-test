@@ -2641,7 +2641,7 @@
 - [jondot/awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
 - [Foliotek/Croppie](https://github.com/Foliotek/Croppie) - A Javascript Image Cropper
-- [EPPlusSoftware/EPPlus](https://github.com/EPPlusSoftware/EPPlus) - EPPlus 5-Excel spreadsheets for .NET
+- [EPPlusSoftware/EPPlus](https://github.com/EPPlusSoftware/EPPlus) - EPPlus-Excel spreadsheets for .NET
 - [dangrossman/daterangepicker](https://github.com/dangrossman/daterangepicker) - JavaScript Date Range, Date and Time Picker Component
 - [iammukeshm/CleanArchitecture.WebApi](https://github.com/iammukeshm/CleanArchitecture.WebApi) - An implementation of Clean Architecture for ASP.NET Core 3.1 WebAPI. Built with loosely coupled architecture and clean-code practices in mind.
 - [aspnetcorehero/ToastNotification](https://github.com/aspnetcorehero/ToastNotification) - ToastNotification is a Minimal & Elegant Toast Notification Package for ASP.NET Core Web Applications that can be invoked via C#. Compatible with ASP.NET Core 3.1 and .NET 5.
