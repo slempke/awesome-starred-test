@@ -945,6 +945,7 @@
 
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
+- [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 
 ## deployment 
 
@@ -2797,7 +2798,6 @@
 - [elenapan/dotfiles](https://github.com/elenapan/dotfiles) - There is no place like ~/
 - [kutsan/zsh-system-clipboard](https://github.com/kutsan/zsh-system-clipboard) - System clipboard key bindings for Zsh Line Editor with vi mode. It is similar to what `set clipboard=unnamed` does for vim.
 - [GPGTools/MacGPG2](https://github.com/GPGTools/MacGPG2) - GnuPG 2 for macOS
-- [kjk/blog](https://github.com/kjk/blog) - Static site generator for my blog
 - [kumu/docs](https://github.com/kumu/docs) - 
 - [grzesiek-galezowski/tdd-ebook](https://github.com/grzesiek-galezowski/tdd-ebook) - Test-Driven Development - Extensive Tutorial. Open Source ebook
 - [pgaskin/BookBrowser](https://github.com/pgaskin/BookBrowser) - eBook server supporting ePub, MOBI and PDF books.
