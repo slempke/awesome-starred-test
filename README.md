@@ -319,6 +319,7 @@
 - [minamarkham/sassy-starter](https://github.com/minamarkham/sassy-starter) - :tada: Sassy starter - HTML / SCSS (SMACSS)
 - [adobe-fonts/source-sans](https://github.com/adobe-fonts/source-sans) - Sans serif font family for user interface environments
 - [engageinteractive/core](https://github.com/engageinteractive/core) - Our Front-end baseplate, from mobile to desktop
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 - [trimailov/finance](https://github.com/trimailov/finance) - Django app to track income and expenses
 - [atom-material/atom-material-ui](https://github.com/atom-material/atom-material-ui) - A dynamic UI theme for Atom that follows Google's Material Design Guidelines
@@ -561,7 +562,7 @@
 - [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version) - :trophy: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
 - [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
-- [rknightuk/alfred-workflows](https://github.com/rknightuk/alfred-workflows) - Alfred workflows I use. Script to automatically export.
+- [rknightuk/alfred-workflows](https://github.com/rknightuk/alfred-workflows) - My Alfred Workflows
 - [alyssaxuu/animockup](https://github.com/alyssaxuu/animockup) - Create animated mockups in the browser 🔥
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
@@ -1710,7 +1711,6 @@
 - [mhartington/dotfiles](https://github.com/mhartington/dotfiles) - 
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [OzzyCzech/dotfiles](https://github.com/OzzyCzech/dotfiles) - OzzyCzech dotfiles for macOS
-- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [vitorgalvao/alfred-workflows](https://github.com/vitorgalvao/alfred-workflows) - Collection of Alfred workflows
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
 - [cowboy/dotfiles](https://github.com/cowboy/dotfiles) - My Ubuntu / OS X dotfiles.
