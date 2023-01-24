@@ -237,7 +237,7 @@
 ## analytics 
 
 - [wangkanai/wangkanai](https://github.com/wangkanai/wangkanai) - Wangkanai is a collection of ASP.NET Core libraries that was developed internally over time and share common usage that would benefit everyone in the open source community as a whole.
-- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Headless Business Intelligence for Building Data Applications
+- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — The Semantic Layer for Building Data Applications
 
 ## android 
 
@@ -2322,7 +2322,7 @@
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [sqlkata/querybuilder](https://github.com/sqlkata/querybuilder) - SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird
 - [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
-- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Headless Business Intelligence for Building Data Applications
+- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — The Semantic Layer for Building Data Applications
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
 - [TablePlus/TablePlus](https://github.com/TablePlus/TablePlus) - TablePlus macOS issue tracker
@@ -3276,7 +3276,7 @@
 - [collinbarrett/FilterLists](https://github.com/collinbarrett/FilterLists) - :shield: The independent, comprehensive directory of filter and host lists for advertisements, trackers, malware, and annoyances.
 - [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
 - [saschagrunert/webapp.rs](https://github.com/saschagrunert/webapp.rs) - A web application completely written in Rust. 🌍
-- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Headless Business Intelligence for Building Data Applications
+- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — The Semantic Layer for Building Data Applications
 - [graphile/postgraphile](https://github.com/graphile/postgraphile) - Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!
 - [darold/pgbadger](https://github.com/darold/pgbadger) - A fast PostgreSQL Log Analyzer
 - [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
@@ -3638,7 +3638,7 @@
 - [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
 - [tinysearch/tinysearch](https://github.com/tinysearch/tinysearch) - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Headless Business Intelligence for Building Data Applications
+- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — The Semantic Layer for Building Data Applications
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
@@ -3689,7 +3689,7 @@
 ## serverless 
 
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
-- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Headless Business Intelligence for Building Data Applications
+- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — The Semantic Layer for Building Data Applications
 - [apex/up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
 - [superfly/fly](https://github.com/superfly/fly) - Deploy app servers close to your users. Package your app as a Docker image, and launch it in 17 cities with one simple CLI.
 - [serverless/examples](https://github.com/serverless/examples) - Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.
@@ -3806,7 +3806,7 @@
 - [MikhailMasny/useful-web-pages](https://github.com/MikhailMasny/useful-web-pages) - 📚 A set of useful links for a web developer, including links to topics such as Git, HTML, CSS, JavaScript, various extensions for VS, VS Code, Chrome, Back-end, and Front-end Frameworks and etc.
 - [DapperLib/Dapper](https://github.com/DapperLib/Dapper) - Dapper - a simple object mapper for .Net
 - [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
-- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Headless Business Intelligence for Building Data Applications
+- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — The Semantic Layer for Building Data Applications
 - [mybatis/mybatis-3](https://github.com/mybatis/mybatis-3) - MyBatis SQL mapper framework for Java
 - [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless
 - [darold/pgbadger](https://github.com/darold/pgbadger) - A fast PostgreSQL Log Analyzer
