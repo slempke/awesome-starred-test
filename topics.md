@@ -1031,7 +1031,7 @@
 - [RickStrahl/MarkdownMonster](https://github.com/RickStrahl/MarkdownMonster) - An extensible Markdown Editor, Viewer and Weblog Publisher for Windows
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
-- [learning-rust/site](https://github.com/learning-rust/site) - 🎓 Rust Programming Language Tutorials for Everyone!
+- [learning-rust/site](https://github.com/learning-rust/site) - 👨‍🏫 Rust Programming Language Tutorials for Everyone!
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
@@ -3617,7 +3617,7 @@
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [lotabout/skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
-- [learning-rust/site](https://github.com/learning-rust/site) - 🎓 Rust Programming Language Tutorials for Everyone!
+- [learning-rust/site](https://github.com/learning-rust/site) - 👨‍🏫 Rust Programming Language Tutorials for Everyone!
 - [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in various languages.
