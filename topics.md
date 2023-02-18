@@ -3248,7 +3248,7 @@
 
 ## parsing 
 
-- [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data parsing and validation using Python type hints
+- [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [SBJson/SBJson](https://github.com/SBJson/SBJson) - This framework implements a strict JSON parser and generator in Objective-C.
 - [Chevrotain/chevrotain](https://github.com/Chevrotain/chevrotain) - Parser Building Toolkit for JavaScript
 
@@ -3346,7 +3346,7 @@
 - [dwisulfahnur/blog-fastapi-vuejs](https://github.com/dwisulfahnur/blog-fastapi-vuejs) - Simple project that I write using fastapi, motor, and umongo for the backend. VueJS on the frontend
 - [MongoEngine/mongoengine](https://github.com/MongoEngine/mongoengine) - A Python Object-Document-Mapper for working with MongoDB
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
-- [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data parsing and validation using Python type hints
+- [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [tiangolo/uvicorn-gunicorn-fastapi-docker](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker) - Docker image with Uvicorn managed by Gunicorn for high-performance FastAPI web applications in Python with performance auto-tuning. Optionally with Alpine Linux.
 - [testdrivenio/flask-vue-kubernetes](https://github.com/testdrivenio/flask-vue-kubernetes) - Flask + Vue + Postgres + Docker + Kubernetes
@@ -3654,7 +3654,6 @@
 - [godcrampy/dev-cheats](https://github.com/godcrampy/dev-cheats) - :star: Technical Cheat Sheets for Devs in Hurry
 - [NickMaev/react-core-boilerplate](https://github.com/NickMaev/react-core-boilerplate) - Powerful ASP.NET Core 3 templates with React, true server-side rendering and Docker support
 - [themesberg/pixel-bootstrap-ui-kit](https://github.com/themesberg/pixel-bootstrap-ui-kit) - Pixel UI Kit - Free and open source Bootstrap 5 UI Kit without jQuery
-- [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty CSS linter that helps you avoid errors and enforce conventions.
 - [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
 - [sass/dart-sass](https://github.com/sass/dart-sass) - The reference implementation of Sass, written in Dart.
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
