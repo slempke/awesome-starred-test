@@ -2839,7 +2839,7 @@
 - [michelvanheest/shortcuts-design-data](https://github.com/michelvanheest/shortcuts-design-data) - 
 - [aamnah/notes.aamnah.com](https://github.com/aamnah/notes.aamnah.com) - Aamnah's dev notes and learnings
 - [jbloch/effective-java-3e-source-code](https://github.com/jbloch/effective-java-3e-source-code) - The source code from the third edition of Effective Java, with minor additions as necessary to make it runnable.
-- [davidtheclark/cosmiconfig](https://github.com/davidtheclark/cosmiconfig) - Find and load configuration from a package.json property, rc file, or CommonJS module
+- [cosmiconfig/cosmiconfig](https://github.com/cosmiconfig/cosmiconfig) - Find and load configuration from a package.json property, rc file, or CommonJS module
 - [livegrep/livegrep](https://github.com/livegrep/livegrep) - Interactively grep source code. Source for http://livegrep.com/
 - [jfhbrook/node-ecstatic](https://github.com/jfhbrook/node-ecstatic) - A static file server middleware that works with core http, express or on the CLI!
 - [esteinberg/plantuml4idea](https://github.com/esteinberg/plantuml4idea) - Intellij IDEA plugin for PlantUML
