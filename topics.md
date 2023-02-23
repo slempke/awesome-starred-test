@@ -2966,7 +2966,6 @@
 - [pw4ever/awesome-wm-config](https://github.com/pw4ever/awesome-wm-config) - awesome window manager config with persistent dynamic tagging
 - [kentcdodds/ama](https://github.com/kentcdodds/ama) - Ask me anything!
 - [nikitavoloboev/ama](https://github.com/nikitavoloboev/ama) - Ask me anything
-- [mabako/alientube](https://github.com/mabako/alientube) - Reddit comments, in your YouTube!
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [overtake/TelegramSwift](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macos on Swift 5.0
 - [iaolo/iA-Fonts](https://github.com/iaolo/iA-Fonts) - Free variable writing fonts from iA
