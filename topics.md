@@ -209,6 +209,7 @@
 - [visual-basic](#visual-basic)
 - [visual-studio-code](#visual-studio-code)
 - [vue](#vue)
+- [vuejs](#vuejs)
 - [web](#web)
 - [web-components](#web-components)
 - [webapp](#webapp)
@@ -1576,7 +1577,6 @@
 - [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
 - [git-for-windows/git](https://github.com/git-for-windows/git) - A fork of Git containing Windows-specific patches.
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
-- [toptal/haste-server](https://github.com/toptal/haste-server) - open source pastebin written in node.js
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
@@ -2589,7 +2589,6 @@
 - [bennyxguo/Obsidian-Obsidianite](https://github.com/bennyxguo/Obsidian-Obsidianite) - 🎨 Obsidian.md custom theme, it's dark and simple but yet still stays sparkles!
 - [westerlind/alfred-raindrop-search](https://github.com/westerlind/alfred-raindrop-search) - Search or add Raindrop.io bookmarks from Alfred
 - [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
-- [euvl/vue-js-grid](https://github.com/euvl/vue-js-grid) - :bento:  Vue.js 2.x responsive grid system with smooth sorting, drag-n-drop and reordering
 - [prerender/prerender](https://github.com/prerender/prerender) - Node server that uses Headless Chrome to render a javascript-rendered page as HTML. To be used in conjunction with prerender middleware.
 - [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
@@ -2883,6 +2882,7 @@
 - [jspenguin2017/uBlockProtector](https://github.com/jspenguin2017/uBlockProtector) - An anti-adblock defuser for Nano Adblocker and uBlock Origin
 - [pichfl/ia-writer-templates-dev](https://github.com/pichfl/ia-writer-templates-dev) - Preview and create your own templates for iA Writer with ease.
 - [shortcutrecorder/shortcutrecorder](https://github.com/shortcutrecorder/shortcutrecorder) - The official home for Shortcut Recorder on GitHub
+- [toptal/haste-server](https://github.com/toptal/haste-server) - open source pastebin written in node.js
 - [rogierlommers/greedy](https://github.com/rogierlommers/greedy) - Greedy saves websites you visit through a bookmarklet and exposes them through a RSS feed.
 - [0nn0/terminal-mac-cheatsheet](https://github.com/0nn0/terminal-mac-cheatsheet) - List of my most used commands and shortcuts in the terminal for Mac
 - [fabiospampinato/shortcuts](https://github.com/fabiospampinato/shortcuts) - Super performant and feature rich shortcuts management library.
@@ -3016,7 +3016,7 @@
 - [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
 - [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
 - [camsong/You-Dont-Need-jQuery](https://github.com/camsong/You-Dont-Need-jQuery) - Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
 - [nanohop/sketch-to-react-native](https://github.com/nanohop/sketch-to-react-native) - Convert Sketch files into React Native components
 - [v4iv/gatsby-starter-business](https://github.com/v4iv/gatsby-starter-business) - Gatsby Business Website Starter
@@ -4157,6 +4157,24 @@
 - [youzan/vant](https://github.com/youzan/vant) - A lightweight, customizable Vue UI library for mobile web apps.
 - [codesandbox/codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online IDE for rapid web development
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
+
+## vuejs 
+
+- [alfonsobries/vue-tailwind](https://github.com/alfonsobries/vue-tailwind) - Vue UI components with configurable classes ready for TailwindCSS
+- [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library
+- [dwisulfahnur/blog-fastapi-vuejs](https://github.com/dwisulfahnur/blog-fastapi-vuejs) - Simple project that I write using fastapi, motor, and umongo for the backend. VueJS on the frontend
+- [lmiller1990/vue-testing-handbook](https://github.com/lmiller1990/vue-testing-handbook) - A guide on testing Vue components and applications
+- [vueschool/vue-masterclass](https://github.com/vueschool/vue-masterclass) - 🗂  Source code for The Vue 3 Masterclass
+- [chakra-ui/chakra-ui-vue](https://github.com/chakra-ui/chakra-ui-vue) - ⚡️ Build scalable and accessible Vue.js applications with ease.
+- [euvl/vue-js-grid](https://github.com/euvl/vue-js-grid) - :bento:  Vue.js 2.x responsive grid system with smooth sorting, drag-n-drop and reordering
+- [chrisleekr/nodejs-vuejs-mysql-boilerplate](https://github.com/chrisleekr/nodejs-vuejs-mysql-boilerplate) - Node.js (REST API) + Vue.js/Nuxt.js  (Frontend/Backend) + MySQL Boilerplate
+- [Zulko/eagle.js](https://github.com/Zulko/eagle.js) - A hackable slideshow framework built with Vue.js
+- [davidgaroro/vuetify-todo-pwa](https://github.com/davidgaroro/vuetify-todo-pwa) - ✔️ A simple Todo PWA built with Vue 2 + Vuex + Vuetify.
+- [jonashackt/spring-boot-vuejs](https://github.com/jonashackt/spring-boot-vuejs) - Example project showing how to build a Spring Boot App providing a GUI with Vue.js
+- [gothinkster/vue-realworld-example-app](https://github.com/gothinkster/vue-realworld-example-app) - An exemplary real-world application built with Vue.js, Vuex, axios and different other technologies. This is a good example to discover Vue for beginners.
+- [vuelidate/vuelidate](https://github.com/vuelidate/vuelidate) - Simple, lightweight model-based validation for Vue.js
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
+- [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 
 ## web 
 
