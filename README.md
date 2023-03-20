@@ -474,6 +474,7 @@
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
 - [wangkanai/wangkanai](https://github.com/wangkanai/wangkanai) - Wangkanai is a collection of ASP.NET Core libraries that was developed internally over time and share common usage that would benefit everyone in the open source community as a whole.
 - [jsakamoto/BlazorMinimumTemplates](https://github.com/jsakamoto/BlazorMinimumTemplates) - Templates for ASP.NET Core Blazor without any js and css libraries.
+- [saineshwar/QuickDesk](https://github.com/saineshwar/QuickDesk) - The help desk software for small companies which are into customer support. Developed in ASP.NET MVC | SQL Server.
 - [SamProf/MatBlazor](https://github.com/SamProf/MatBlazor) - Material Design components for Blazor and Razor Components
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [harvesthq/chosen](https://github.com/harvesthq/chosen) - Deprecated - Chosen is a library for making long, unwieldy select boxes more friendly.
@@ -601,7 +602,6 @@
 - [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
 - [Foliotek/Croppie](https://github.com/Foliotek/Croppie) - A Javascript Image Cropper
 - [dangrossman/daterangepicker](https://github.com/dangrossman/daterangepicker) - JavaScript Date Range, Date and Time Picker Component
-- [saineshwar/QuickDesk](https://github.com/saineshwar/QuickDesk) - The help desk software for small companies which are into customer support. Developed in ASP.NET MVC | SQL Server.
 - [saineshwar/Frapper](https://github.com/saineshwar/Frapper) - ASP.NET Core 3.1 Beginners project template with complete Custom User Management and lot's of other useful Features Which Helps you for Rapid Application Development.
 - [sixeyed/docker4.net](https://github.com/sixeyed/docker4.net) - Resources for the Udemy course: Docker for .NET Apps
 - [creativetimofficial/material-dashboard-react](https://github.com/creativetimofficial/material-dashboard-react) - React version of Material Dashboard by Creative Tim
@@ -836,7 +836,7 @@
 - [timadevelop/bindings](https://github.com/timadevelop/bindings) - bindings.
 - [i5ting/How-to-learn-node-correctly](https://github.com/i5ting/How-to-learn-node-correctly) - [全文]如何正确的学习Node.js
 - [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
-- [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 - [honestbleeps/Reddit-Enhancement-Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - Reddit Enhancement Suite
 - [jaredreich/notie](https://github.com/jaredreich/notie) - 🔔 a clean and simple notification, input, and selection suite for javascript, with no dependencies
 - [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
