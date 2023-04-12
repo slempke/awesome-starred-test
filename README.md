@@ -73,7 +73,6 @@
 - [unforswearing/dued](https://github.com/unforswearing/dued) - An Alfred extension and system service for formatted dates on macos
 - [unforswearing/applescript](https://github.com/unforswearing/applescript) - Applescript applets, snippets, resources, and links
 - [ChristoferK/AppleScriptive](https://github.com/ChristoferK/AppleScriptive) - Functional AppleScripts operating out of Keyboard Maestro, Alfred and Automator to optimise productivity.
-- [xilopaint/alfred-things](https://github.com/xilopaint/alfred-things) - Interact with Things 3 using Alfred.
 - [vitorgalvao/custom-alfred-iterm-scripts](https://github.com/vitorgalvao/custom-alfred-iterm-scripts) - AppleScript for iTerm2 Alfred integration.
 
 ## AsciiDoc 
@@ -842,6 +841,7 @@
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 - [honestbleeps/Reddit-Enhancement-Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - Reddit Enhancement Suite
 - [jaredreich/notie](https://github.com/jaredreich/notie) - 🔔 a clean and simple notification, input, and selection suite for javascript, with no dependencies
+- [xilopaint/alfred-things](https://github.com/xilopaint/alfred-things) - Interact with Things using Alfred.
 - [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
 - [serverless/examples](https://github.com/serverless/examples) - Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.
 - [bukinoshita/taskr](https://github.com/bukinoshita/taskr) - A simple task manager app
@@ -921,7 +921,7 @@
 - [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) - A file explorer tree for neovim written in lua
 - [mhartington/formatter.nvim](https://github.com/mhartington/formatter.nvim) - 
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
-- [glepnir/dashboard-nvim](https://github.com/glepnir/dashboard-nvim) - vim dashboard
+- [nvimdev/dashboard-nvim](https://github.com/nvimdev/dashboard-nvim) - vim dashboard
 - [novakne/kosmikoa.nvim](https://github.com/novakne/kosmikoa.nvim) - A dark color scheme for Neovim with support for LSP, Treesitter. This mirror is deprecated. Use the repo at https://sr.ht/~novakane/kosmikoa.nvim/
 - [skywind3000/z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits.
 - [rafi/vim-config](https://github.com/rafi/vim-config) - Lean mean Neovim machine, carefully crafted with :heart:  Use with latest Neovim.
