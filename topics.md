@@ -2114,6 +2114,7 @@
 
 ## lua 
 
+- [luukvbaal/statuscol.nvim](https://github.com/luukvbaal/statuscol.nvim) - Status column plugin that provides a configurable 'statuscolumn' and click handlers.
 - [LunarVim/nvim-basic-ide](https://github.com/LunarVim/nvim-basic-ide) - 🪨 This is my attempt at a basic stable starting point for a Neovim IDE.
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
@@ -2387,6 +2388,7 @@
 
 ## neovim 
 
+- [luukvbaal/statuscol.nvim](https://github.com/luukvbaal/statuscol.nvim) - Status column plugin that provides a configurable 'statuscolumn' and click handlers.
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [LunarVim/nvim-basic-ide](https://github.com/LunarVim/nvim-basic-ide) - 🪨 This is my attempt at a basic stable starting point for a Neovim IDE.
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
@@ -2590,7 +2592,6 @@
 
 ## others 
 
-- [luukvbaal/statuscol.nvim](https://github.com/luukvbaal/statuscol.nvim) - Status column plugin that provides a configurable 'statuscolumn' and click handlers.
 - [ozntel/file-tree-alternative](https://github.com/ozntel/file-tree-alternative) - This Obsidian Plugin allows users to have a different file explorer experience.
 - [mdelobelle/metadatamenu](https://github.com/mdelobelle/metadatamenu) - For data quality enthousiasts (and dataview lovers): manage the metadata of your notes.
 - [webpro/reveal-md](https://github.com/webpro/reveal-md) - reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file
