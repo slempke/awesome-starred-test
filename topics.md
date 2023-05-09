@@ -618,7 +618,7 @@
 
 - [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor) - A set of enterprise-class UI components based on Bootstrap and Blazor
 - [StartBootstrap/startbootstrap-sb-admin-2](https://github.com/StartBootstrap/startbootstrap-sb-admin-2) - A free, open source, Bootstrap admin theme created by Start Bootstrap
-- [mdbootstrap/mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap 5 & Material Design 2.0 UI KIT
+- [mdbootstrap/mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap 5 & Material Design UI KIT
 - [NickMaev/react-core-boilerplate](https://github.com/NickMaev/react-core-boilerplate) - Powerful ASP.NET Core 3 templates with React, true server-side rendering and Docker support
 - [themesberg/pixel-bootstrap-ui-kit](https://github.com/themesberg/pixel-bootstrap-ui-kit) - Pixel UI Kit - Free and open source Bootstrap 5 UI Kit without jQuery
 - [Daemonite/material](https://github.com/Daemonite/material) - Material Design for Bootstrap 4
@@ -879,7 +879,7 @@
 - [smaranjitghose/awesome-portfolio-websites](https://github.com/smaranjitghose/awesome-portfolio-websites) - A community maintained open source project aimed at making a personal portfolio for researchers, developers, and analysts simple, fast, and less cumbersome. We make sure you have a full-fledged websit
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [MikhailMasny/useful-web-pages](https://github.com/MikhailMasny/useful-web-pages) - 📚 A set of useful links for a web developer, including links to topics such as Git, HTML, CSS, JavaScript, various extensions for VS, VS Code, Chrome, Back-end, and Front-end Frameworks and etc.
-- [mdbootstrap/mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap 5 & Material Design 2.0 UI KIT
+- [mdbootstrap/mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap 5 & Material Design UI KIT
 - [susam/spcss](https://github.com/susam/spcss) - A simple, minimal, classless stylesheet for simple HTML pages
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
@@ -1258,7 +1258,7 @@
 ## framework 
 
 - [graphql-python/graphene](https://github.com/graphql-python/graphene) - GraphQL framework for Python
-- [mdbootstrap/mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap 5 & Material Design 2.0 UI KIT
+- [mdbootstrap/mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap 5 & Material Design UI KIT
 - [reactiveui/ReactiveUI](https://github.com/reactiveui/ReactiveUI) - An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms that is inspired by functional reactive programming. ReactiveUI allows you to  abstract mutable state
 - [aspnetboilerplate/aspnetboilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) - ASP.NET Boilerplate - Web Application Framework
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
@@ -1712,7 +1712,7 @@
 - [dotnetcore/Magicodes.IE](https://github.com/dotnetcore/Magicodes.IE) - Import and export general library, support Dto import and export, template export, fancy export and dynamic export, support Excel, Csv, Word, Pdf and Html.
 - [StartBootstrap/startbootstrap-sb-admin-2](https://github.com/StartBootstrap/startbootstrap-sb-admin-2) - A free, open source, Bootstrap admin theme created by Start Bootstrap
 - [MikhailMasny/useful-web-pages](https://github.com/MikhailMasny/useful-web-pages) - 📚 A set of useful links for a web developer, including links to topics such as Git, HTML, CSS, JavaScript, various extensions for VS, VS Code, Chrome, Back-end, and Front-end Frameworks and etc.
-- [mdbootstrap/mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap 5 & Material Design 2.0 UI KIT
+- [mdbootstrap/mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap 5 & Material Design UI KIT
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
 - [ajsaulsberry/BlipAjax](https://github.com/ajsaulsberry/BlipAjax) - ASP.NET MVC case study solution for PluralSight Guides. Demonstrates using Ajax helpers and JavaScript with Razor partial views.
@@ -1841,7 +1841,7 @@
 - [godcrampy/dev-cheats](https://github.com/godcrampy/dev-cheats) - :star: Technical Cheat Sheets for Devs in Hurry
 - [CodeverDotDev/bookmarks](https://github.com/CodeverDotDev/bookmarks) - :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.codever.dev
 - [MikhailMasny/useful-web-pages](https://github.com/MikhailMasny/useful-web-pages) - 📚 A set of useful links for a web developer, including links to topics such as Git, HTML, CSS, JavaScript, various extensions for VS, VS Code, Chrome, Back-end, and Front-end Frameworks and etc.
-- [mdbootstrap/mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap 5 & Material Design 2.0 UI KIT
+- [mdbootstrap/mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap 5 & Material Design UI KIT
 - [mar10/fancytree](https://github.com/mar10/fancytree) - JavaScript tree view / tree grid plugin with support for keyboard, inline editing, filtering, checkboxes, drag'n'drop, and lazy loading
 - [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
 - [NickMaev/react-core-boilerplate](https://github.com/NickMaev/react-core-boilerplate) - Powerful ASP.NET Core 3 templates with React, true server-side rendering and Docker support
@@ -2331,7 +2331,7 @@
 ## material-design 
 
 - [davidgaroro/vuetify-todo-pwa](https://github.com/davidgaroro/vuetify-todo-pwa) - ✔️ A simple Todo PWA built with Vue 2 + Vuex + Vuetify.
-- [mdbootstrap/mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap 5 & Material Design 2.0 UI KIT
+- [mdbootstrap/mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap 5 & Material Design UI KIT
 - [creativetimofficial/material-dashboard](https://github.com/creativetimofficial/material-dashboard) - Material Dashboard - Open Source Bootstrap 5 Material Design Admin
 - [creativetimofficial/material-dashboard-react](https://github.com/creativetimofficial/material-dashboard-react) - React version of Material Dashboard by Creative Tim
 - [SamProf/MatBlazor](https://github.com/SamProf/MatBlazor) - Material Design components for Blazor and Razor Components
