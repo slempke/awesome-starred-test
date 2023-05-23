@@ -1218,7 +1218,7 @@
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 - [aonez/Keka](https://github.com/aonez/Keka) - The macOS file archiver
 - [nystudio107/craft-imageoptimize](https://github.com/nystudio107/craft-imageoptimize) - Automatically create & optimize responsive image transforms, using either native Craft transforms or a service like Imgix, with zero template changes.
-- [MikoMagni/Trello-Workflow-for-Alfred](https://github.com/MikoMagni/Trello-Workflow-for-Alfred) - Trello Workflow - Create cards in Trello via Alfred App for Mac
+- [MikoMagni/Alfrello](https://github.com/MikoMagni/Alfrello) - Trello Workflow - Create cards in Trello via Alfred App for Mac
 - [kijin/pinboard-api](https://github.com/kijin/pinboard-api) - Pinboard API Client in PHP
 - [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
 - [joypixels/emojione](https://github.com/joypixels/emojione) - [Archived] The world's largest independent emoji font. Maintained at https://github.com/joypixels/emoji-toolkit.
@@ -1385,6 +1385,7 @@
 - [mutdmour/alfred-workflow-cheatsheet](https://github.com/mutdmour/alfred-workflow-cheatsheet) - Cheatsheet to get shortcuts for apps
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [alichtman/stronghold](https://github.com/alichtman/stronghold) - Easily configure macOS security settings from the terminal.
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [nanohop/sketch-to-react-native](https://github.com/nanohop/sketch-to-react-native) - Convert Sketch files into React Native components
 - [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
 - [deanishe/alfred-relative-dates](https://github.com/deanishe/alfred-relative-dates) - Alfred workflow to generate relative dates in different locales
