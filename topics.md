@@ -990,6 +990,7 @@
 ## devops 
 
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
+- [BretFisher/udemy-docker-mastery](https://github.com/BretFisher/udemy-docker-mastery) - Docker Mastery Udemy course to build, compose, deploy, and manage containers from local development to high-availability in the cloud
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD
@@ -1015,6 +1016,7 @@
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place.
 - [tiangolo/uvicorn-gunicorn-fastapi-docker](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker) - Docker image with Uvicorn managed by Gunicorn for high-performance FastAPI web applications in Python with performance auto-tuning. Optionally with Alpine Linux.
 - [testdrivenio/flask-vue-kubernetes](https://github.com/testdrivenio/flask-vue-kubernetes) - Flask + Vue + Postgres + Docker + Kubernetes
+- [BretFisher/udemy-docker-mastery](https://github.com/BretFisher/udemy-docker-mastery) - Docker Mastery Udemy course to build, compose, deploy, and manage containers from local development to high-availability in the cloud
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
 - [NickMaev/react-core-boilerplate](https://github.com/NickMaev/react-core-boilerplate) - Powerful ASP.NET Core 3 templates with React, true server-side rendering and Docker support
 - [collinbarrett/FilterLists](https://github.com/collinbarrett/FilterLists) - :shield: The independent, comprehensive directory of filter and host lists for advertisements, trackers, malware, and annoyances.
@@ -2012,6 +2014,7 @@
 
 - [machine-drivers/docker-machine-driver-vmware](https://github.com/machine-drivers/docker-machine-driver-vmware) - Docker machine driver for VMware Fusion and Workstation.
 - [testdrivenio/flask-vue-kubernetes](https://github.com/testdrivenio/flask-vue-kubernetes) - Flask + Vue + Postgres + Docker + Kubernetes
+- [BretFisher/udemy-docker-mastery](https://github.com/BretFisher/udemy-docker-mastery) - Docker Mastery Udemy course to build, compose, deploy, and manage containers from local development to high-availability in the cloud
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [eclipse/che](https://github.com/eclipse/che) - The Kubernetes-Native IDE for Developer Teams
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
@@ -2686,7 +2689,6 @@
 - [kylestratis/roam-daily-notes](https://github.com/kylestratis/roam-daily-notes) - An Alfred workflow for setting daily notes in Roam, including a retrospective space
 - [kylestratis/roam-weekly-plan](https://github.com/kylestratis/roam-weekly-plan) - Script repo for Alfred workflow that generates a Roam weekly plan template
 - [aidam38/roamsr](https://github.com/aidam38/roamsr) - Spaced Repetition in Roam Research
-- [BretFisher/udemy-docker-mastery](https://github.com/BretFisher/udemy-docker-mastery) - Udemy Course to build, compose, deploy, and manage containers from local development to high-availability in the cloud
 - [scriban/scriban](https://github.com/scriban/scriban) - A fast, powerful, safe and lightweight scripting language and engine for .NET
 - [damienbod/AspNetCoreCsvImportExport](https://github.com/damienbod/AspNetCoreCsvImportExport) - ASP.NET Core CSV import export custom formatters
 - [damienbod/AspNetCoreFilters](https://github.com/damienbod/AspNetCoreFilters) - ASP.NET Core MVC Filters
@@ -3054,7 +3056,7 @@
 - [mikolajdobrucki/ikonate](https://github.com/mikolajdobrucki/ikonate) - Fully customisable & accessible vector icons
 - [larsenwork/monoid](https://github.com/larsenwork/monoid) - Customisable coding font with alternates, ligatures and contextual positioning. Crazy crisp at 12px/9pt. http://larsenwork.com/monoid/
 - [nickytonline/alfred-workflows](https://github.com/nickytonline/alfred-workflows) - Hopefully useful workflows for Alfred
-- [MikoMagni/Alfrello](https://github.com/MikoMagni/Alfrello) - Trello Workflow - Create cards in Trello via Alfred App for Mac
+- [MikoMagni/Alfrello](https://github.com/MikoMagni/Alfrello) - Alfred Workflow for creating cards on a Trello board
 - [GoogleChromeLabs/ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - FireBug for designers › Edit any webpage, in any state https://a.nerdy.dev/gimme-visbug
 - [hholtmann/smcFanControl](https://github.com/hholtmann/smcFanControl) - Control the fans of every Intel Mac to make it run cooler
 - [wilsonmar/mac-setup](https://github.com/wilsonmar/mac-setup) - :rocket: Automatically install, configure, and run the most popular programs of several stacks to work offline on a Mac and in clouds.
