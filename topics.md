@@ -2323,7 +2323,7 @@
 - [gajus/gitdown](https://github.com/gajus/gitdown) - GitHub markdown preprocessor.
 - [onmyway133/blog](https://github.com/onmyway133/blog) - 🍁 What you don't know is what you haven't learned
 - [BubuAnabelas/awesome-markdown](https://github.com/BubuAnabelas/awesome-markdown) - :memo: Delightful Markdown stuff.
-- [micromark/micromark](https://github.com/micromark/micromark) - the smallest commonmark (optionally gfm) compliant markdown parser that exists; new foundation for @unifiedjs (hundreds of projects w/ billions of downloads for dealing w/ content)
+- [micromark/micromark](https://github.com/micromark/micromark) - small, safe, and great commonmark (optionally gfm) compliant markdown parser
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [jasonrudolph/keyboard](https://github.com/jasonrudolph/keyboard) - ⌨ Toward a more useful keyboard
 - [assemble/assemble](https://github.com/assemble/assemble) - Get the rocks out of your socks! Assemble makes you fast at web development! Used by thousands of projects for rapid prototyping, themes, scaffolds, boilerplates, e-books, UI components, API documenta
