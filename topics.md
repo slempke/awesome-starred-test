@@ -850,7 +850,7 @@
 - [sqlkata/querybuilder](https://github.com/sqlkata/querybuilder) - SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird
 - [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) - Blazor Component Library based on Material design with an emphasis on ease of use. Mainly written in C# with Javascript kept to a bare minimum it empowers .NET developers to easily debug it if needed.
 - [MikhailMasny/useful-web-pages](https://github.com/MikhailMasny/useful-web-pages) - 📚 A set of useful links for a web developer, including links to topics such as Git, HTML, CSS, JavaScript, various extensions for VS, VS Code, Chrome, Back-end, and Front-end Frameworks and etc.
-- [OmniSharp/omnisharp-vscode](https://github.com/OmniSharp/omnisharp-vscode) - Official C# support for Visual Studio Code (powered by OmniSharp)
+- [dotnet/vscode-csharp](https://github.com/dotnet/vscode-csharp) - Official C# support for Visual Studio Code (powered by OmniSharp)
 - [AdrienTorris/awesome-blazor](https://github.com/AdrienTorris/awesome-blazor) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
 - [MoienTajik/AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - Roadmap to becoming an ASP.NET Core developer in 2023
 - [saineshwar/QuickDesk](https://github.com/saineshwar/QuickDesk) - The help desk software for small companies which are into customer support. Developed in ASP.NET MVC | SQL Server.
