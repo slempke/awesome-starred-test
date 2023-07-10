@@ -582,7 +582,7 @@
 - [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
-- [bluz71/dotfiles](https://github.com/bluz71/dotfiles) - My dotfiles for Bash, Fish, Neovim, Vim, Git, tmux and other stuff
+- [bluz71/dotfiles](https://github.com/bluz71/dotfiles) - My dotfiles for Neovim, Fish, Bash, Vim, tmux, Git and other stuff
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
@@ -1342,7 +1342,7 @@
 - [aaronbates/dotfiles](https://github.com/aaronbates/dotfiles) - macOS dotfiles — migrate, backup, config, brew, dev, and a whole lot more.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [deanishe/alfred-repos](https://github.com/deanishe/alfred-repos) - Browse, search and open Git repositories in Alfred
-- [bluz71/dotfiles](https://github.com/bluz71/dotfiles) - My dotfiles for Bash, Fish, Neovim, Vim, Git, tmux and other stuff
+- [bluz71/dotfiles](https://github.com/bluz71/dotfiles) - My dotfiles for Neovim, Fish, Bash, Vim, tmux, Git and other stuff
 - [paulirish/git-open](https://github.com/paulirish/git-open) - Type `git open` to open the GitHub page or website for a repository in your browser.
 - [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
@@ -2431,7 +2431,7 @@
 - [ahmedelgabri/dotfiles](https://github.com/ahmedelgabri/dotfiles) - ~ 🍭 ~
 - [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Fish, Karabiner, VS Code
 - [AhmedAbdulrahman/dotfiles](https://github.com/AhmedAbdulrahman/dotfiles) - ❤ ~/.🛠 macOS / Ubuntu  \[._.]/ files
-- [bluz71/dotfiles](https://github.com/bluz71/dotfiles) - My dotfiles for Bash, Fish, Neovim, Vim, Git, tmux and other stuff
+- [bluz71/dotfiles](https://github.com/bluz71/dotfiles) - My dotfiles for Neovim, Fish, Bash, Vim, tmux, Git and other stuff
 - [casprwang/dotfiles](https://github.com/casprwang/dotfiles) - 
 - [trautwein/dotfiles](https://github.com/trautwein/dotfiles) - Personal dotfiles
 - [qvacua/vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
@@ -4195,7 +4195,7 @@
 - [yqrashawn/yqdotfiles](https://github.com/yqrashawn/yqdotfiles) - dotfiles
 - [keith/dotfiles](https://github.com/keith/dotfiles) - My vim, zsh, tmux, and macOS dotfiles
 - [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
-- [bluz71/dotfiles](https://github.com/bluz71/dotfiles) - My dotfiles for Bash, Fish, Neovim, Vim, Git, tmux and other stuff
+- [bluz71/dotfiles](https://github.com/bluz71/dotfiles) - My dotfiles for Neovim, Fish, Bash, Vim, tmux, Git and other stuff
 - [casprwang/dotfiles](https://github.com/casprwang/dotfiles) - 
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [SebastienElet/dotfiles](https://github.com/SebastienElet/dotfiles) - 🔧 My dotfiles
