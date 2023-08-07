@@ -83,6 +83,7 @@
 
 ## Astro 
 
+- [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 - [CSS-Tricks/serverless](https://github.com/CSS-Tricks/serverless) - The Power of Serverless for Front-End Developers
 
 ## AutoHotkey 
@@ -561,6 +562,7 @@
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [sindresorhus/execa](https://github.com/sindresorhus/execa) - Process execution for humans
 - [webpro/reveal-md](https://github.com/webpro/reveal-md) - reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [krausest/js-framework-benchmark](https://github.com/krausest/js-framework-benchmark) - A comparison of the performance of a few popular javascript frameworks
 - [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version) - :trophy: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
@@ -633,7 +635,6 @@
 - [select2/select2](https://github.com/select2/select2) - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
 - [andreasbm/web-skills](https://github.com/andreasbm/web-skills) - A visual overview of useful skills to learn as a web developer
 - [felixrieseberg/macintosh.js](https://github.com/felixrieseberg/macintosh.js) - 🖥 A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.
-- [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 4
 - [docker/kitematic](https://github.com/docker/kitematic) - Visual Docker Container Management on Mac & Windows
 - [github-tools/github-release-notes](https://github.com/github-tools/github-release-notes) - Node module to create a release or a changelog from a tag and uses issues or commits to creating the release notes.
 - [coreui/coreui-free-react-admin-template](https://github.com/coreui/coreui-free-react-admin-template) - CoreUI React is a free React admin template based on Bootstrap 5
@@ -1806,7 +1807,6 @@
 - [ozntel/file-tree-alternative](https://github.com/ozntel/file-tree-alternative) - This Obsidian Plugin allows users to have a different file explorer experience.
 - [mdelobelle/metadatamenu](https://github.com/mdelobelle/metadatamenu) - For data quality enthousiasts (and dataview lovers): manage the metadata of your notes.
 - [garronej/denoify](https://github.com/garronej/denoify) - 🦕For NPM module authors that would like to support Deno but do not want to write and maintain a port.
-- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [solidjs/solid-site](https://github.com/solidjs/solid-site) - Code that powers the SolidJS.com platform.
