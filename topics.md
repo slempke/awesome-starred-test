@@ -1904,7 +1904,7 @@
 - [zspecza/common-tags](https://github.com/zspecza/common-tags) - 🔖 Useful template literal tags for dealing with strings in ES2015+
 - [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS
 - [joshfarrant/shortcuts-js](https://github.com/joshfarrant/shortcuts-js) - A JavaScript iOS 12 Shortcuts creator
-- [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
+- [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons
 - [JXA-Cookbook/JXA-Cookbook](https://github.com/JXA-Cookbook/JXA-Cookbook) - Cookbook for JavaScript for Automation in Mac OS X Yosemite
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [browserify/browserify](https://github.com/browserify/browserify) - browser-side require() the node.js way
