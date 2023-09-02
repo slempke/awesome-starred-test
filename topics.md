@@ -3295,7 +3295,6 @@
 - [postmodern/chruby](https://github.com/postmodern/chruby) - Changes the current Ruby
 - [ChrisRM/material-theme-jetbrains](https://github.com/ChrisRM/material-theme-jetbrains) - JetBrains theme of Material Theme
 - [rstacruz/nprogress](https://github.com/rstacruz/nprogress) - For slim progress bars like on YouTube, Medium, etc
-- [atom-material/atom-material-ui](https://github.com/atom-material/atom-material-ui) - A dynamic UI theme for Atom that follows Google's Material Design Guidelines
 - [fizzed/font-mfizz](https://github.com/fizzed/font-mfizz) - Font Mfizz - Vector Icons for Technology and Software Geeks
 - [vitorgalvao/homebrew-tiny-scripts](https://github.com/vitorgalvao/homebrew-tiny-scripts) - Homebrew tap for my tiny-scripts repos
 - [hacksalot/HackMyResume](https://github.com/hacksalot/HackMyResume) - Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon.
