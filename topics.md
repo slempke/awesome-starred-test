@@ -1632,7 +1632,7 @@
 - [tinysearch/tinysearch](https://github.com/tinysearch/tinysearch) - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [Flexget/Flexget](https://github.com/Flexget/Flexget) - The official FlexGet repository
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 - [fenetikm/falcon](https://github.com/fenetikm/falcon) - A colour scheme for terminals, Vim and friends.
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
@@ -2490,7 +2490,7 @@
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [postlight/parser](https://github.com/postlight/parser) - 📜 Extract meaningful content from the chaos of a web page
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 - [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
@@ -2642,7 +2642,6 @@
 - [yskoht/keymapviz](https://github.com/yskoht/keymapviz) - keymap.c visualizer
 - [TechBooster/ReVIEW-Template](https://github.com/TechBooster/ReVIEW-Template) - TechBoosterで利用しているRe:VIEWのテンプレート（B5/A5/電子書籍）を公開しています
 - [jurgen-kluft/go-qmk-keymap](https://github.com/jurgen-kluft/go-qmk-keymap) - This is a utility that can format your keymap array of layers as well as generating ascii-art diagrams of those layouts.
-- [animosity22/homescripts](https://github.com/animosity22/homescripts) - My Scripts for Plex / Emby with Dropbox and rclone
 - [solidjs/solid-site](https://github.com/solidjs/solid-site) - Code that powers the SolidJS.com platform.
 - [makeabilitylab/arduino](https://github.com/makeabilitylab/arduino) - All things Arduino (for teaching and beyond!)
 - [ttscoff/gather-cli](https://github.com/ttscoff/gather-cli) - 
@@ -4281,7 +4280,7 @@
 - [jonashackt/spring-boot-vuejs](https://github.com/jonashackt/spring-boot-vuejs) - Example project showing how to build a Spring Boot App providing a GUI with Vue.js
 - [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Keystroke launcher for Windows and macOS
 - [gridsome/gridsome](https://github.com/gridsome/gridsome) - ⚡️ The Jamstack framework for Vue.js
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 - [gothinkster/vue-realworld-example-app](https://github.com/gothinkster/vue-realworld-example-app) - An exemplary real-world application built with Vue.js, Vuex, axios and different other technologies. This is a good example to discover Vue for beginners.
 - [vuejs/vuex](https://github.com/vuejs/vuex) - 🗃️ Centralized State Management for Vue.js.
 - [vuelidate/vuelidate](https://github.com/vuelidate/vuelidate) - Simple, lightweight model-based validation for Vue.js
