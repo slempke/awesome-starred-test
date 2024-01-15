@@ -134,6 +134,7 @@
 - [mastodon](#mastodon)
 - [material-design](#material-design)
 - [maven](#maven)
+- [microsoft](#microsoft)
 - [mobile](#mobile)
 - [mongodb](#mongodb)
 - [monitoring](#monitoring)
@@ -2398,6 +2399,15 @@
 
 - [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless
 
+## microsoft 
+
+- [AdrienTorris/awesome-blazor](https://github.com/AdrienTorris/awesome-blazor) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
+- [dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb) - Sample ASP.NET Core 8.0 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model. Download the eBook PDF from docs folder.
+- [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) - :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
+- [michaeltreat/Windows-Subsystem-For-Linux-Setup-Guide](https://github.com/michaeltreat/Windows-Subsystem-For-Linux-Setup-Guide) - An in-depth Guide for getting started with the Windows Subsystem for Linux!
+- [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
+- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+
 ## mobile 
 
 - [atilafassina/quantum](https://github.com/atilafassina/quantum) - Tauri + Solid add support for Android and iOS on top of desktop builds (linux, mac, windows).
@@ -2723,7 +2733,7 @@
 - [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [koekeishiya/skhd](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS
-- [mauricius/vue-draggable-resizable](https://github.com/mauricius/vue-draggable-resizable) - Vue2 Component for draggable and resizable elements.
+- [mauricius/vue-draggable-resizable](https://github.com/mauricius/vue-draggable-resizable) - Vue3 Component for draggable and resizable elements.
 - [SortableJS/vue.draggable.next](https://github.com/SortableJS/vue.draggable.next) - Vue 3 compatible drag-and-drop component based on Sortable.js
 - [daybrush/moveable](https://github.com/daybrush/moveable) - Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
 - [haltu/muuri](https://github.com/haltu/muuri) - Infinite responsive, sortable, filterable and draggable layouts
