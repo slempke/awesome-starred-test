@@ -657,7 +657,7 @@
 - [rbrahul/Awesome-JSON-Viewer](https://github.com/rbrahul/Awesome-JSON-Viewer) - :fire: A Chrome extension to visualise JSON response and  introduce awesome JSON prettifying experiences.
 - [vasanthv/jsonbox](https://github.com/vasanthv/jsonbox) - HTTP-based JSON storage.
 - [vigetlabs/microcosm](https://github.com/vigetlabs/microcosm) - Flux with actions at center stage. Write optimistic updates, cancel requests, and track changes with ease.
-- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of a complete web page in a single HTML file
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [mrcoles/bookmarklet](https://github.com/mrcoles/bookmarklet) - A server-side bookmarklet compiler with greasemonkey userscript-like metadata options and the power of babel and uglify
 - [abhijithvijayan/stargazed](https://github.com/abhijithvijayan/stargazed) - 📋 Creating your own Awesome List of GitHub stars!
 - [kiliman/operator-mono-lig](https://github.com/kiliman/operator-mono-lig) - Add ligatures to Operator Mono similar to Fira Code
@@ -933,6 +933,7 @@
 - [daynin/dotfiles](https://github.com/daynin/dotfiles) - :metal: My collection of dotfiles for neovim, tmux, etc
 - [ashfinal/awesome-hammerspoon](https://github.com/ashfinal/awesome-hammerspoon) - awesome configuration for Hammerspoon.
 - [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
+- [jrock2004/dotfiles](https://github.com/jrock2004/dotfiles) - This is my dotfiles that I save to it makes it easy to setup a new machine
 
 ## MDX 
 
@@ -1720,7 +1721,6 @@
 - [mhartington/dotfiles](https://github.com/mhartington/dotfiles) - 
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [OzzyCzech/dotfiles](https://github.com/OzzyCzech/dotfiles) - OzzyCzech dotfiles for macOS
-- [jrock2004/dotfiles](https://github.com/jrock2004/dotfiles) - This is my dotfiles that I save to it makes it easy to setup a new machine
 - [vitorgalvao/alfred-workflows](https://github.com/vitorgalvao/alfred-workflows) - Collection of Alfred workflows
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
 - [cowboy/dotfiles](https://github.com/cowboy/dotfiles) - My Ubuntu / OS X dotfiles.
@@ -1993,7 +1993,6 @@
 - [dbmrq/Dotfiles](https://github.com/dbmrq/Dotfiles) - :house_with_garden: There's no place like ~/
 - [tpope/vim-markdown](https://github.com/tpope/vim-markdown) - Vim Markdown runtime files
 - [mitsuhiko/dotfiles](https://github.com/mitsuhiko/dotfiles) - My dotfiles (vim / bash etc.)
-- [andy-lang/dotfiles](https://github.com/andy-lang/dotfiles) - dotfiles for (Neo)vim, Tmux, Zsh, Git, and Bash
 - [rglassett/dotfiles](https://github.com/rglassett/dotfiles) - Configuration for macOS, zsh, tmux, and vim.
 - [martin-svk/dot-files](https://github.com/martin-svk/dot-files) - :zap: Well documented, terminal centric web developer's dot files. Neovim, Zsh, Tmux, Git, etc.
 - [neomake/neomake](https://github.com/neomake/neomake) - Asynchronous linting and make framework for Neovim/Vim
