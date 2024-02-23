@@ -407,7 +407,7 @@
 - [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [briangonzalez/awesome-applescripts](https://github.com/briangonzalez/awesome-applescripts) - A collection of awesome, useful, not-so-obvious applescripts.
 - [phanan/htaccess](https://github.com/phanan/htaccess) - ✂A collection of useful .htaccess snippets.
 - [RichardLitt/awesome-styleguides](https://github.com/RichardLitt/awesome-styleguides) - :clipboard: A list of styleguides
@@ -1584,7 +1584,6 @@
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [garronej/denoify](https://github.com/garronej/denoify) - 🦕For NPM module authors that would like to support Deno but do not want to write and maintain a port.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
-- [wezm/git-grab](https://github.com/wezm/git-grab) - Clone a git repository into a standard location organised by domain and path.
 - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
@@ -2782,7 +2781,7 @@
 - [patrickgod/dotnet5-rpg](https://github.com/patrickgod/dotnet5-rpg) - Code for the online course ".NET 5 & .NET Core 3.1 Web API & Entity Framework Jumpstart" on Udemy.
 - [sangram-chavan/productivity-extpack](https://github.com/sangram-chavan/productivity-extpack) - Development Environment Productivity Extensions Pack
 - [godcrampy/cheat-sheets](https://github.com/godcrampy/cheat-sheets) - 🌟 All the cheat-sheets mentioned on my blog in pdf format
-- [xyting/NPOI.Extension](https://github.com/xyting/NPOI.Extension) - This repo contains the extension for the NPOI, which provides IEnumerable&lt;T&gt; have save to and load from excel functionalities.
+- [rigofunc/NPOI.Extension](https://github.com/rigofunc/NPOI.Extension) - This repo contains the extension for the NPOI, which provides IEnumerable&lt;T&gt; have save to and load from excel functionalities.
 - [donnytian/Npoi.Mapper](https://github.com/donnytian/Npoi.Mapper) - Use this tool to import or export data with Excel file. The tool is a convention based mapper between strong typed object and Excel data via NPOI.
 - [nabehiro/TableIO](https://github.com/nabehiro/TableIO) - TableIO provides common interaface for reading and writing CSV, Excel and other table format content.
 - [hanzhaoxin/ExcelReport](https://github.com/hanzhaoxin/ExcelReport) - This reporting engine is built on NPOI.
@@ -3572,7 +3571,7 @@
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 - [plotly/dash-table](https://github.com/plotly/dash-table) - OBSOLETE: now part of https://github.com/plotly/dash
 - [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [jonlabelle/SublimeJsPrettier](https://github.com/jonlabelle/SublimeJsPrettier) - JsPrettier is a Sublime Text Plug-in for Prettier, the opinionated code formatter.
 - [b3nab/instapy-cli](https://github.com/b3nab/instapy-cli) - :sparkles: Python library and CLI to upload photo and video on Instagram. W/o a phone!
