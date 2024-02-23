@@ -144,7 +144,7 @@
 - [Aspodel/excel-handler](https://github.com/Aspodel/excel-handler) - Read and export Excel file with ASP.Net Core Webapi, EPPlus, ExcelDataReader
 - [SaiGonSoftware/Awesome-CMS-Core](https://github.com/SaiGonSoftware/Awesome-CMS-Core) - Awesome CMS Core is an open source CMS built using ASP.Net Core & ReactJS with module seperation concern in mind and provide lastest trend of technology like .Net Core, React, Webpack, SASS, Backgroun
 - [dotnet/efcore](https://github.com/dotnet/efcore) - EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.
-- [xyting/NPOI.Extension](https://github.com/xyting/NPOI.Extension) - This repo contains the extension for the NPOI, which provides IEnumerable&lt;T&gt; have save to and load from excel functionalities.
+- [rigofunc/NPOI.Extension](https://github.com/rigofunc/NPOI.Extension) - This repo contains the extension for the NPOI, which provides IEnumerable&lt;T&gt; have save to and load from excel functionalities.
 - [donnytian/Npoi.Mapper](https://github.com/donnytian/Npoi.Mapper) - Use this tool to import or export data with Excel file. The tool is a convention based mapper between strong typed object and Excel data via NPOI.
 - [nabehiro/TableIO](https://github.com/nabehiro/TableIO) - TableIO provides common interaface for reading and writing CSV, Excel and other table format content.
 - [hanzhaoxin/ExcelReport](https://github.com/hanzhaoxin/ExcelReport) - This reporting engine is built on NPOI.
@@ -1378,7 +1378,7 @@
 - [danielecook/gist-alfred](https://github.com/danielecook/gist-alfred) - An alfred workflow for accessing gists
 - [simshadows/sims-dotfiles](https://github.com/simshadows/sims-dotfiles) - My personal dotfiles for Linux and Mac. Setup scripts included.
 - [janosgyerik/bashoneliners](https://github.com/janosgyerik/bashoneliners) - A collection of practical or just pure awesome bash one-liners or shell script tips and tricks for GNU Linux, UNIX or BSD systems. Open, collaborative system, user friendly, with functions to contribu
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [jonlabelle/SublimeJsPrettier](https://github.com/jonlabelle/SublimeJsPrettier) - JsPrettier is a Sublime Text Plug-in for Prettier, the opinionated code formatter.
 - [larsenwork/monoid](https://github.com/larsenwork/monoid) - Customisable coding font with alternates, ligatures and contextual positioning. Crazy crisp at 12px/9pt. http://larsenwork.com/monoid/
 - [i-tu/Hasklig](https://github.com/i-tu/Hasklig) - Hasklig - a code font with monospaced ligatures
