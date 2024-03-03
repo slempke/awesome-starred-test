@@ -144,6 +144,7 @@
 - [music](#music)
 - [mysql](#mysql)
 - [nativescript](#nativescript)
+- [natural-language-processing](#natural-language-processing)
 - [neovim](#neovim)
 - [neural-network](#neural-network)
 - [nextjs](#nextjs)
@@ -2478,6 +2479,11 @@
 
 - [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
 
+## natural-language-processing 
+
+- [hunspell/hunspell](https://github.com/hunspell/hunspell) - The most popular spellchecking library.
+- [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
+
 ## neovim 
 
 - [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) - Obsidian 🤝 Neovim
@@ -2982,7 +2988,6 @@
 - [gothinkster/node-express-realworld-example-app](https://github.com/gothinkster/node-express-realworld-example-app) - 
 - [vuejs/vue-cli](https://github.com/vuejs/vue-cli) - 🛠️ webpack-based tooling for Vue.js Development
 - [asharov/git-hammer](https://github.com/asharov/git-hammer) - Collect and display statistics of git repositories
-- [hunspell/hunspell](https://github.com/hunspell/hunspell) - The most popular spellchecking library.
 - [jimeh/tmux-themepack](https://github.com/jimeh/tmux-themepack) - A pack of various Tmux themes.
 - [feedbin/feedbin](https://github.com/feedbin/feedbin) - A nice place to read on the web.
 - [clvv/fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
