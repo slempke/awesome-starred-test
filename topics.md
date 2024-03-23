@@ -3152,7 +3152,7 @@
 - [mixu/markdown-styles](https://github.com/mixu/markdown-styles) - Markdown to static HTML generator and multiple CSS themes for Markdown
 - [mutdmour/alfred-workflow-cheatsheet](https://github.com/mutdmour/alfred-workflow-cheatsheet) - Cheatsheet to get shortcuts for apps
 - [deanishe/alfred-safari-assistant](https://github.com/deanishe/alfred-safari-assistant) - Alfred 3+ workflow to search and use Safari bookmarks, history, reading list and tabs.
-- [27cm/awesome-soft](https://github.com/27cm/awesome-soft) - A collection of awesome computer software.
+- [anton-kotik/awesome-soft](https://github.com/anton-kotik/awesome-soft) - A collection of awesome computer software.
 - [karan/Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
 - [pascallaliberte/theme-notes-first](https://github.com/pascallaliberte/theme-notes-first) - A Notes-First StyleSheet for Taskpaper
 - [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
