@@ -3067,7 +3067,7 @@
 - [yoshuawuyts/document-ready](https://github.com/yoshuawuyts/document-ready) - Document ready listener for browsers
 - [googleworkspace/apps-script-samples](https://github.com/googleworkspace/apps-script-samples) - Apps Script samples for Google Workspace products.
 - [LukeChannings/dotfiles](https://github.com/LukeChannings/dotfiles) - Luke's .config
-- [sam-hosseini/dotfiles](https://github.com/sam-hosseini/dotfiles) - ꫝ My macOS setup
+- [sam-hosseini/dotfiles](https://github.com/sam-hosseini/dotfiles) - My macOS setup
 - [joelparkerhenderson/git-commit-message](https://github.com/joelparkerhenderson/git-commit-message) - Git commit message: how to write a great git commit message and commit template for version control
 - [timoxley/linklocal](https://github.com/timoxley/linklocal) - Install local dependencies as symlinks.
 - [josephrexme/knowledge](https://github.com/josephrexme/knowledge) - Documenting every knowledge
