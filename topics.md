@@ -3277,7 +3277,7 @@
 - [gordonmzhu/cheatsheet-js](https://github.com/gordonmzhu/cheatsheet-js) - A super condensed JavaScript reference for Watch and Code students.
 - [djaiss/mapsicon](https://github.com/djaiss/mapsicon) - A free collection of maps for every country in the world, available in 11 sizes or in SVG.
 - [Vonng/Capslock](https://github.com/Vonng/Capslock) - Make Capslock Great Again!
-- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
+- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 - [dracula/chrome-devtools](https://github.com/dracula/chrome-devtools) - 🧛🏻‍♂️ Dark theme for Chrome DevTools
 - [citelao/Spotify-for-Alfred](https://github.com/citelao/Spotify-for-Alfred) - aka Spotifious — a natural Spotify controller for Alfred
 - [vdesabou/alfred-spotify-mini-player](https://github.com/vdesabou/alfred-spotify-mini-player) - 🎵🎩 Alfred workflow to control your Spotify library at your fingertips
