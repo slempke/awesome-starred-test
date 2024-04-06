@@ -3180,7 +3180,7 @@
 - [adam-golab/react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap) - Roadmap to becoming a React developer
 - [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
 - [deanishe/alfred-relative-dates](https://github.com/deanishe/alfred-relative-dates) - Alfred workflow to generate relative dates in different locales
-- [docopt/docopt](https://github.com/docopt/docopt) - Pythonic command line arguments parser, that will make you smile
+- [docopt/docopt](https://github.com/docopt/docopt) - This project is no longer maintained. Please see https://github.com/jazzband/docopt-ng
 - [msoedov/Alfred-collection](https://github.com/msoedov/Alfred-collection) - A collection of all known Alfred3 workflows
 - [jhipster/jhipster.github.io](https://github.com/jhipster/jhipster.github.io) - Public website for JHipster - generates https://www.jhipster.tech
 - [tonsky/AnyBar](https://github.com/tonsky/AnyBar) - OS X menubar status indicator
