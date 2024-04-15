@@ -2873,7 +2873,7 @@
 - [PostgresApp/PostgresApp](https://github.com/PostgresApp/PostgresApp) - The easiest way to get started with PostgreSQL on the Mac
 - [PacktPublishing/The-Complete-Coding-Interview-Guide-in-Java](https://github.com/PacktPublishing/The-Complete-Coding-Interview-Guide-in-Java) - The Complete Coding Interview Guide in Java, published by Packt
 - [pyropy/user-eats-rest-api](https://github.com/pyropy/user-eats-rest-api) - Spring Boot REST API for food ordering example app.
-- [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
+- [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Unified ingress for developers
 - [ErikCH/DevYouTubeList](https://github.com/ErikCH/DevYouTubeList) - List of Development YouTube Channels
 - [turbolinks/turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster
 - [missing-semester/missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
