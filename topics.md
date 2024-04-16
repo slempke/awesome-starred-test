@@ -3014,7 +3014,7 @@
 - [nenadmarkus/picojs](https://github.com/nenadmarkus/picojs) - A face detection library in 200 lines of JavaScript
 - [sjl/badwolf](https://github.com/sjl/badwolf) - A Vim color scheme.
 - [jdorn/sql-formatter](https://github.com/jdorn/sql-formatter) - A lightweight php class for formatting sql statements. Handles automatic indentation and syntax highlighting.
-- [mjibson/sqlfmt](https://github.com/mjibson/sqlfmt) - SQL formatter with width-aware output
+- [maddyblue/sqlfmt](https://github.com/maddyblue/sqlfmt) - SQL formatter with width-aware output
 - [darold/pgFormatter](https://github.com/darold/pgFormatter) - A PostgreSQL SQL syntax beautifier that can work as a console program or as a CGI. On-line demo site at http://sqlformat.darold.net/
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [anishathalye/git-remote-dropbox](https://github.com/anishathalye/git-remote-dropbox) - A transparent bridge between Git and Dropbox - use a Dropbox (shared) folder as a Git remote! 🎁
