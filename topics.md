@@ -2983,7 +2983,7 @@
 - [suliveevil/Capslock](https://github.com/suliveevil/Capslock) - ultimate macOS keyboard re-mapping
 - [felipepastorelima/vue-library](https://github.com/felipepastorelima/vue-library) - Build a Library web application with Vue, NodeJS, and SQL or MongoDB using ScaffoldHub
 - [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
-- [AlexMartinFR/mojave-alfred-accented-themes](https://github.com/AlexMartinFR/mojave-alfred-accented-themes) - 🎩  Dark & Light Accented Alfred Themes tailored for macOS Mojave & Catalina users.
+- [alexmartinfr/mojave-alfred-accented-themes](https://github.com/alexmartinfr/mojave-alfred-accented-themes) - 🎩  Dark & Light Accented Alfred Themes tailored for macOS Mojave & Catalina users.
 - [vuejs/composition-api](https://github.com/vuejs/composition-api) - Composition API plugin for Vue 2
 - [gothinkster/node-express-realworld-example-app](https://github.com/gothinkster/node-express-realworld-example-app) - 
 - [vuejs/vue-cli](https://github.com/vuejs/vue-cli) - 🛠️ webpack-based tooling for Vue.js Development
