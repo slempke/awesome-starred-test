@@ -170,7 +170,6 @@
 - [DapperLib/Dapper](https://github.com/DapperLib/Dapper) - Dapper - a simple object mapper for .Net
 - [lkurzyniec/netcore-boilerplate](https://github.com/lkurzyniec/netcore-boilerplate) - Boilerplate of API in .NET 8
 - [graphql-dotnet/graphql-dotnet](https://github.com/graphql-dotnet/graphql-dotnet) - GraphQL for .NET
-- [microsoft/AspNetCore-React-WebApp](https://github.com/microsoft/AspNetCore-React-WebApp) - ASP.NET Core backend + React frontend + Entity Framework Core + automated testing
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
 - [ExcelDataReader/ExcelDataReader](https://github.com/ExcelDataReader/ExcelDataReader) - Lightweight and fast library written in C# for reading Microsoft Excel files
 - [Humanizr/Humanizer](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
@@ -365,6 +364,7 @@
 
 ## Go 
 
+- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [jurgen-kluft/go-qmk-keymap](https://github.com/jurgen-kluft/go-qmk-keymap) - This is a utility that can format your keymap array of layers as well as generating ascii-art diagrams of those layouts.
 - [machine-drivers/docker-machine-driver-vmware](https://github.com/machine-drivers/docker-machine-driver-vmware) - Docker machine driver for VMware Fusion and Workstation.
 - [whalebrew/whalebrew](https://github.com/whalebrew/whalebrew) - Homebrew, but with Docker images
@@ -459,7 +459,6 @@
 ## HTML 
 
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [solidjs/solid-start](https://github.com/solidjs/solid-start) - SolidStart, the Solid app framework
 - [smaranjitghose/awesome-portfolio-websites](https://github.com/smaranjitghose/awesome-portfolio-websites) - A community maintained open source project aimed at making a personal portfolio for researchers, developers, and analysts simple, fast, and less cumbersome. We make sure you have a full-fledged websit
 - [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 3rd Edition - Programming the Open Blockchain
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
@@ -928,7 +927,6 @@
 
 ## MDX 
 
-- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [daneden/daneden.me](https://github.com/daneden/daneden.me) - 🏡 This is my website. There are many like it, but this one is mine.
 - [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - ⚡️ Front End interview preparation materials for busy engineers
 
@@ -1388,7 +1386,7 @@
 - [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
 - [deanishe/alfred-relative-dates](https://github.com/deanishe/alfred-relative-dates) - Alfred workflow to generate relative dates in different locales
 - [deanishe/alfred-appscripts](https://github.com/deanishe/alfred-appscripts) - Alfred workflow to search and run/open AppleScripts for the active application
-- [docopt/docopt](https://github.com/docopt/docopt) - This project is no longer maintained. Please see https://github.com/jazzband/docopt-ng
+- [docopt/docopt](https://github.com/docopt/docopt) - Create *beautiful* command-line interfaces with Python
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [MiracleYoung/exercises](https://github.com/MiracleYoung/exercises) - Some Exercises
 - [b-ryan/powerline-shell](https://github.com/b-ryan/powerline-shell) - A beautiful and useful prompt for your shell
@@ -1811,6 +1809,7 @@
 - [vercel/platforms](https://github.com/vercel/platforms) - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API.
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
+- [solidjs/solid-start](https://github.com/solidjs/solid-start) - SolidStart, the Solid app framework
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
 - [benwinding/react-admin-firebase](https://github.com/benwinding/react-admin-firebase) - A firebase data provider for the react-admin framework
 - [Hendrixer/fullstack-music](https://github.com/Hendrixer/fullstack-music) - 
