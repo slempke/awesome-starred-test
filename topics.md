@@ -1929,7 +1929,7 @@
 - [prettydiff/prettydiff](https://github.com/prettydiff/prettydiff) - Beautifier and language aware code comparison tool for many languages. It also minifies and a few other things.
 - [yilverdeja/KlotskiPuzzleApplication](https://github.com/yilverdeja/KlotskiPuzzleApplication) - For the WPI software engineering course, the assignment was to design a Klotski Puzzle Game using an EBC model. First I created a set of use cases and a storyboard of the application. Second I impleme
 - [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
-- [javaparser/javaparser](https://github.com/javaparser/javaparser) - Java 1-18 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities.
+- [javaparser/javaparser](https://github.com/javaparser/javaparser) - Java 1-21 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities.
 - [mybatis/mybatis-3](https://github.com/mybatis/mybatis-3) - MyBatis SQL mapper framework for Java
 - [uber/NullAway](https://github.com/uber/NullAway) - A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead
 - [diffplug/spotless](https://github.com/diffplug/spotless) - Keep your code spotless
