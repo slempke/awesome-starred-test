@@ -273,7 +273,7 @@
 
 ## android 
 
-- [atilafassina/quantum](https://github.com/atilafassina/quantum) - Opinionated Tauri v2 Template with SolidJS
+- [atilafassina/quantum](https://github.com/atilafassina/quantum) - Opinionated Tauri v2 Template with SolidStart
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
 - [reactiveui/ReactiveUI](https://github.com/reactiveui/ReactiveUI) - An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms that is inspired by functional reactive programming. ReactiveUI allows you to  abstract mutable state
@@ -1898,7 +1898,7 @@
 
 ## ios 
 
-- [atilafassina/quantum](https://github.com/atilafassina/quantum) - Opinionated Tauri v2 Template with SolidJS
+- [atilafassina/quantum](https://github.com/atilafassina/quantum) - Opinionated Tauri v2 Template with SolidStart
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and analytics tool you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
@@ -2499,7 +2499,7 @@
 
 ## mobile 
 
-- [atilafassina/quantum](https://github.com/atilafassina/quantum) - Opinionated Tauri v2 Template with SolidJS
+- [atilafassina/quantum](https://github.com/atilafassina/quantum) - Opinionated Tauri v2 Template with SolidStart
 - [taye/interact.js](https://github.com/taye/interact.js) - JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE9+)
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
 - [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based)
@@ -3862,7 +3862,7 @@
 
 ## rust 
 
-- [atilafassina/quantum](https://github.com/atilafassina/quantum) - Opinionated Tauri v2 Template with SolidJS
+- [atilafassina/quantum](https://github.com/atilafassina/quantum) - Opinionated Tauri v2 Template with SolidStart
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [wezm/git-grab](https://github.com/wezm/git-grab) - Clone a git repository into a standard location organised by domain and path.
 - [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
@@ -4253,7 +4253,7 @@
 
 ## typescript 
 
-- [atilafassina/quantum](https://github.com/atilafassina/quantum) - Opinionated Tauri v2 Template with SolidJS
+- [atilafassina/quantum](https://github.com/atilafassina/quantum) - Opinionated Tauri v2 Template with SolidStart
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
