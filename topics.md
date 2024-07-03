@@ -3840,7 +3840,7 @@
 - [learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
 - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [rbenv/ruby-build](https://github.com/rbenv/ruby-build) - A tool to download, compile, and install Ruby on Unix-like systems.
-- [postmodern/ruby-install](https://github.com/postmodern/ruby-install) - Installs Ruby, JRuby, Rubinius, TruffleRuby or MRuby
+- [postmodern/ruby-install](https://github.com/postmodern/ruby-install) - Installs Ruby, JRuby, TruffleRuby, or mruby
 - [athityakumar/colorls](https://github.com/athityakumar/colorls) - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. :tada:
 - [valignatev/ddd-dynamic](https://github.com/valignatev/ddd-dynamic) - Domain Driven Design in Python, Ruby and other dynamic languages resources
 - [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a local frontend and support for many kinds of markup and content.
@@ -3978,7 +3978,7 @@
 - [sharkdp/shell-functools](https://github.com/sharkdp/shell-functools) - Functional programming tools for the shell
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
-- [postmodern/ruby-install](https://github.com/postmodern/ruby-install) - Installs Ruby, JRuby, Rubinius, TruffleRuby or MRuby
+- [postmodern/ruby-install](https://github.com/postmodern/ruby-install) - Installs Ruby, JRuby, TruffleRuby, or mruby
 - [mdo/config](https://github.com/mdo/config) - Personal checklist for setting up a new Mac's dev environment.
 - [rothgar/mastering-zsh](https://github.com/rothgar/mastering-zsh) - Advanced topics to take advantage of zsh 👩‍💻👨‍💻
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
