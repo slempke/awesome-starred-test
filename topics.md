@@ -872,7 +872,7 @@
 - [mdo/config](https://github.com/mdo/config) - Personal checklist for setting up a new Mac's dev environment.
 - [darekkay/config-files](https://github.com/darekkay/config-files) - My collection of .dotfiles, settings and snippets.
 - [mrzool/bash-sensible](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults
-- [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs
+- [caarlos0/env](https://github.com/caarlos0/env) - A simple, zero-dependencies library to parse environment variables into structs
 - [solarsailer/dotfiles](https://github.com/solarsailer/dotfiles) - Dotfiles
 - [yqrashawn/GokuRakuJoudo](https://github.com/yqrashawn/GokuRakuJoudo) - config karabiner with ease
 - [4ban/awesome-ban](https://github.com/4ban/awesome-ban) - Awesome WM 4.x theme configs
@@ -1541,7 +1541,7 @@
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
-- [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs
+- [caarlos0/env](https://github.com/caarlos0/env) - A simple, zero-dependencies library to parse environment variables into structs
 - [nikitavoloboev/alfred-awesome-lists](https://github.com/nikitavoloboev/alfred-awesome-lists) - Alfred workflow to search awesome lists
 - [oniony/TMSU](https://github.com/oniony/TMSU) - TMSU lets you tags your files and then access them through a nifty virtual filesystem from any other application.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -1589,7 +1589,7 @@
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [apex/up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
 - [vsouza/dotfiles](https://github.com/vsouza/dotfiles) - :house_with_garden: My dotfiles
-- [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs
+- [caarlos0/env](https://github.com/caarlos0/env) - A simple, zero-dependencies library to parse environment variables into structs
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [domodwyer/mailyak](https://github.com/domodwyer/mailyak) - An elegant MIME/SMTP email library with support for attachments
@@ -1741,7 +1741,7 @@
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-- [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs
+- [caarlos0/env](https://github.com/caarlos0/env) - A simple, zero-dependencies library to parse environment variables into structs
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [elementary/shortcut-overlay](https://github.com/elementary/shortcut-overlay) - A native, OS-wide shortcut overlay
 - [syntaxfm/website](https://github.com/syntaxfm/website) - Syntax Podcast Website
@@ -3010,7 +3010,6 @@
 - [purcell/emacs.d](https://github.com/purcell/emacs.d) - An Emacs configuration bundle with batteries included
 - [tjluoma/updatebrew](https://github.com/tjluoma/updatebrew) - This is the script that I use to update brew.sh automatically
 - [torch/torch7](https://github.com/torch/torch7) - http://torch.ch
-- [camillobruni/script](https://github.com/camillobruni/script) - my favorite scripts
 - [mguessan/davmail](https://github.com/mguessan/davmail) - DavMail POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange and Office 365 Gateway - Synced with main subversion repository at
 - [ttscoff/howzit_old](https://github.com/ttscoff/howzit_old) - 
 - [mrcoles/bookmarklet](https://github.com/mrcoles/bookmarklet) - A server-side bookmarklet compiler with greasemonkey userscript-like metadata options and the power of babel and uglify
