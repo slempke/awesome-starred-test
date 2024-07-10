@@ -30,6 +30,7 @@
 - [blockchain](#blockchain)
 - [bootstrap](#bootstrap)
 - [bot](#bot)
+- [bugbounty](#bugbounty)
 - [c](#c)
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
@@ -676,6 +677,10 @@
 ## bot 
 
 - [chiefonboarding/ChiefOnboarding](https://github.com/chiefonboarding/ChiefOnboarding) - Free and open-source employee onboarding platform. Onboard new hires through Slack or the web portal.
+
+## bugbounty 
+
+- [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool.
 
 ## c 
 
@@ -3167,7 +3172,7 @@
 - [dmarmor/epichrome](https://github.com/dmarmor/epichrome) - An application and Chrome extension for creating web-based applications that work like standalone Mac apps.
 - [zehfernandes/pliim](https://github.com/zehfernandes/pliim) - One click and be ready to go up on stage and shine!
 - [televator-apps/vimari](https://github.com/televator-apps/vimari) - Safari port of vimium
-- [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
+- [nikitavoloboev/wiki](https://github.com/nikitavoloboev/wiki) - Everything I know
 - [kjk/notionapi](https://github.com/kjk/notionapi) - Unofficial Go API for Notion.so
 - [lucaorio/nero](https://github.com/lucaorio/nero) - Übersicht widget to monitor the state of Yabai tiling window manager
 - [Kapeli/Dash-Alfred-Workflow](https://github.com/Kapeli/Dash-Alfred-Workflow) - Dash Alfred Workflow
