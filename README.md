@@ -1718,7 +1718,7 @@
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
 - [cowboy/dotfiles](https://github.com/cowboy/dotfiles) - My Ubuntu / OS X dotfiles.
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
-- [mengelbrecht/dotfiles](https://github.com/mengelbrecht/dotfiles) - Dotfiles for fish/zsh and beyond
+- [mengelbrecht/dotfiles](https://github.com/mengelbrecht/dotfiles) - Dotfiles
 - [gabrielelana/awesome-terminal-fonts](https://github.com/gabrielelana/awesome-terminal-fonts) - Tools and instructions on how to have awesome symbols in a terminal with a monospace font
 - [postmodern/chruby](https://github.com/postmodern/chruby) - Changes the current Ruby
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
