@@ -3435,7 +3435,7 @@
 - [koajs/examples](https://github.com/koajs/examples) - Example Koa apps
 - [meanjs/mean](https://github.com/meanjs/mean) - MEAN.JS - Full-Stack JavaScript Using MongoDB, Express, AngularJS, and Node.js -
 - [balderdashy/sails](https://github.com/balderdashy/sails) - Realtime MVC Framework for Node.js
-- [mengelbrecht/dotfiles](https://github.com/mengelbrecht/dotfiles) - Dotfiles for fish/zsh and beyond
+- [mengelbrecht/dotfiles](https://github.com/mengelbrecht/dotfiles) - Dotfiles
 - [gabrielelana/awesome-terminal-fonts](https://github.com/gabrielelana/awesome-terminal-fonts) - Tools and instructions on how to have awesome symbols in a terminal with a monospace font
 - [dylang/npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies.
 - [postmodern/chruby](https://github.com/postmodern/chruby) - Changes the current Ruby
