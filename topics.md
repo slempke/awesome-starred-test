@@ -2865,7 +2865,6 @@
 - [donnytian/Npoi.Mapper](https://github.com/donnytian/Npoi.Mapper) - Use this tool to import or export data with Excel file. The tool is a convention based mapper between strong typed object and Excel data via NPOI.
 - [nabehiro/TableIO](https://github.com/nabehiro/TableIO) - TableIO provides common interaface for reading and writing CSV, Excel and other table format content.
 - [hanzhaoxin/ExcelReport](https://github.com/hanzhaoxin/ExcelReport) - This reporting engine is built on NPOI.
-- [nissl-lab/npoi-examples](https://github.com/nissl-lab/npoi-examples) - To get started with NPOI,  here is all the official examples.
 - [ChromeDevTools/debugger-protocol-viewer](https://github.com/ChromeDevTools/debugger-protocol-viewer) - DevTools Protocol API docs—its domains, methods, and events
 - [nextcloud/bookmarks](https://github.com/nextcloud/bookmarks) - 🔖 Bookmark app for Nextcloud
 - [Kiuryy/Bookmark_Sidebar](https://github.com/Kiuryy/Bookmark_Sidebar) - Browser extension, which adds a toggleable sidebar with all your bookmarks on the left or right side of your screen.
