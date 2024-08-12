@@ -3045,7 +3045,7 @@
 - [vincode-io/FeedCurator](https://github.com/vincode-io/FeedCurator) - Maintain OPML documents and publish them.
 - [good/openweb](https://github.com/good/openweb) - 
 - [RichardLitt/knowledge](https://github.com/RichardLitt/knowledge) - 💡 document everything
-- [8483/notes](https://github.com/8483/notes) - Full-stack web development notes.
+- [8483/notes](https://github.com/8483/notes) - Full-stack web development notes
 - [suliveevil/Capslock](https://github.com/suliveevil/Capslock) - ultimate macOS keyboard re-mapping
 - [felipepastorelima/vue-library](https://github.com/felipepastorelima/vue-library) - Build a Library web application with Vue, NodeJS, and SQL or MongoDB using ScaffoldHub
 - [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
