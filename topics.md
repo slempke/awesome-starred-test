@@ -111,6 +111,7 @@
 - [https](#https)
 - [icon-font](#icon-font)
 - [image-processing](#image-processing)
+- [instagram](#instagram)
 - [ios](#ios)
 - [iot](#iot)
 - [java](#java)
@@ -1913,6 +1914,11 @@
 - [hybridgroup/gocv](https://github.com/hybridgroup/gocv) - Go package for computer vision using OpenCV 4 and beyond. Includes support for DNN, CUDA, and OpenCV Contrib.
 - [victordomingos/optimize-images](https://github.com/victordomingos/optimize-images) - A command-line interface (CLI) utility written in pure Python to help you reduce the file size of images.
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
+
+## instagram 
+
+- [graphql-boilerplates/vue-fullstack-graphql](https://github.com/graphql-boilerplates/vue-fullstack-graphql) - Starter projects for fullstack applications based on Vue.js & GraphQL.
+- [b3nab/instapy-cli](https://github.com/b3nab/instapy-cli) - :sparkles: Python library and CLI to upload photo and video on Instagram. W/o a phone!
 
 ## ios 
 
