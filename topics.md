@@ -3183,7 +3183,7 @@
 - [sindresorhus/guides](https://github.com/sindresorhus/guides) - A collection of succinct guides - Public Domain
 - [fabiospampinato/rssa](https://github.com/fabiospampinato/rssa) - RSS-Anything, get updates about anything you can reach with an url. Like RSS, but for anything.
 - [fabiospampinato/vscode-bump](https://github.com/fabiospampinato/vscode-bump) - Bump your project's version and update the changelog. Opinionated but configurable.
-- [transitive-bullshit/random](https://github.com/transitive-bullshit/random) - The most random module on npm
+- [transitive-bullshit/random](https://github.com/transitive-bullshit/random) - Seedable random number generator supporting many common distributions.
 - [m3ng9i/ran](https://github.com/m3ng9i/ran) - a simple static web server written in Go
 - [sindresorhus/npm-run-path](https://github.com/sindresorhus/npm-run-path) - Get your PATH prepended with locally installed binaries
 - [dmarmor/epichrome](https://github.com/dmarmor/epichrome) - An application and Chrome extension for creating web-based applications that work like standalone Mac apps.
@@ -3770,7 +3770,7 @@
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [withspectrum/spectrum](https://github.com/withspectrum/spectrum) - Simple, powerful online communities.
-- [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [styled-system/styled-system](https://github.com/styled-system/styled-system) - ⬢ Style props for rapid UI development
 - [jamiebuilds/unstated](https://github.com/jamiebuilds/unstated) - State so simple, it goes without saying
 - [fabiospampinato/overstated](https://github.com/fabiospampinato/overstated) - React state management library that's delightful to use, without sacrificing performance or scalability.
