@@ -1161,7 +1161,7 @@
 - [bjeanes/dotfiles](https://github.com/bjeanes/dotfiles) - 🏠
 - [davewongillies/dot-files](https://github.com/davewongillies/dot-files) - :desktop_computer::neckbeard: Just my boring dot files
 - [peel/dotfiles](https://github.com/peel/dotfiles) - well-tailored NixOS & nix-darwin dotfiles
-- [LukeChannings/dotfiles](https://github.com/LukeChannings/dotfiles) - Luke's .config
+- [LukeChannings/dotfiles](https://github.com/LukeChannings/dotfiles) - Luke's dotfiles
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [saschagrunert/dotfiles](https://github.com/saschagrunert/dotfiles) - My hand crafted .dotfiles 🤚🛠❤️
 - [kdeldycke/dotfiles](https://github.com/kdeldycke/dotfiles) - 🍎 macOS dotfiles for Python developers.
