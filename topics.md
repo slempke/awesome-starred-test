@@ -751,7 +751,7 @@
 - [sindresorhus/refined-twitter](https://github.com/sindresorhus/refined-twitter) - Browser extension that simplifies the Twitter interface and adds useful features
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
-- [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
+- [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - A Web UI for Elasticsearch and OpenSearch: Import, browse and edit data with rich filters and query views, create reference search UIs.
 - [honestbleeps/Reddit-Enhancement-Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - Reddit Enhancement Suite
 - [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
 
@@ -1029,7 +1029,7 @@
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [witheve/Eve](https://github.com/witheve/Eve) - Better tools for thought
-- [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
+- [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - A Web UI for Elasticsearch and OpenSearch: Import, browse and edit data with rich filters and query views, create reference search UIs.
 - [dboissier/mongo4idea](https://github.com/dboissier/mongo4idea) - MongoDB integration in Intellij
 
 ## deep-learning 
@@ -1741,7 +1741,7 @@
 - [rbenv/ruby-build](https://github.com/rbenv/ruby-build) - A tool to download, compile, and install Ruby on Unix-like systems.
 - [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
-- [dbrgn/tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
+- [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
 - [tinysearch/tinysearch](https://github.com/tinysearch/tinysearch) - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [Flexget/Flexget](https://github.com/Flexget/Flexget) - The official FlexGet repository
@@ -2719,7 +2719,7 @@
 ## nosql 
 
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
-- [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
+- [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - A Web UI for Elasticsearch and OpenSearch: Import, browse and edit data with rich filters and query views, create reference search UIs.
 
 ## npm 
 
@@ -3789,7 +3789,7 @@
 - [codesandbox/codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online IDE for rapid web development
 - [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 - [mobxjs/mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management.
-- [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
+- [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - A Web UI for Elasticsearch and OpenSearch: Import, browse and edit data with rich filters and query views, create reference search UIs.
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [bukinoshita/taskr](https://github.com/bukinoshita/taskr) - A simple task manager app
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
@@ -3829,7 +3829,7 @@
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [AllThingsSmitty/must-watch-javascript](https://github.com/AllThingsSmitty/must-watch-javascript) - 🔥 JavaScript talks you have to see 📺 on functional programming, performance, frameworks, React, debugging, leveling up, and more! ⚡️
 - [kriasoft/react-app](https://github.com/kriasoft/react-app) - Create React App with server-side code support
-- [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
+- [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - A Web UI for Elasticsearch and OpenSearch: Import, browse and edit data with rich filters and query views, create reference search UIs.
 
 ## redux 
 
@@ -3909,7 +3909,7 @@
 - [sharkdp/diskus](https://github.com/sharkdp/diskus) - A minimal, fast alternative to 'du -sh'
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [swsnr/mdcat](https://github.com/swsnr/mdcat) - cat for markdown
-- [dbrgn/tealdeer](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
+- [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
