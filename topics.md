@@ -1763,7 +1763,6 @@
 - [elementary/shortcut-overlay](https://github.com/elementary/shortcut-overlay) - A native, OS-wide shortcut overlay
 - [syntaxfm/website](https://github.com/syntaxfm/website) - Syntax Podcast Website
 - [home-assistant/operating-system](https://github.com/home-assistant/operating-system) - :beginner: Home Assistant Operating System
-- [newsboat/newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals
 - [cheeaun/awesome-hacker-news](https://github.com/cheeaun/awesome-hacker-news) - Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resources and shiny things.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
@@ -3201,6 +3200,7 @@
 - [phallstrom/AlfredGist](https://github.com/phallstrom/AlfredGist) - An workflow for Alfred to create Gists from your clipboard contents or selected file(s).
 - [danielecook/gist-alfred](https://github.com/danielecook/gist-alfred) - An alfred workflow for accessing gists
 - [jusu/Untitled](https://github.com/jusu/Untitled) - 
+- [newsboat/newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals
 - [simshadows/sims-dotfiles](https://github.com/simshadows/sims-dotfiles) - My personal dotfiles for Linux and Mac. Setup scripts included.
 - [janosgyerik/bashoneliners](https://github.com/janosgyerik/bashoneliners) - A collection of practical or just pure awesome bash one-liners or shell script tips and tricks for GNU Linux, UNIX or BSD systems. Open, collaborative system, user friendly, with functions to contribu
 - [JanVanRyswyck/awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - Awesome online talks and screencasts
