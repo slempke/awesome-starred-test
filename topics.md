@@ -1410,7 +1410,7 @@
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
-- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
+- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
 - [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) - Spring Framework
 - [sindresorhus/alfy](https://github.com/sindresorhus/alfy) - Create Alfred workflows with ease
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
@@ -1961,7 +1961,7 @@
 - [CodeverDotDev/bookmarks](https://github.com/CodeverDotDev/bookmarks) - :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.codever.dev
 - [prettydiff/prettydiff](https://github.com/prettydiff/prettydiff) - Beautifier and language aware code comparison tool for many languages. It also minifies and a few other things.
 - [yilverdeja/KlotskiPuzzleApplication](https://github.com/yilverdeja/KlotskiPuzzleApplication) - For the WPI software engineering course, the assignment was to design a Klotski Puzzle Game using an EBC model. First I created a set of use cases and a storyboard of the application. Second I impleme
-- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
+- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
 - [javaparser/javaparser](https://github.com/javaparser/javaparser) - Java 1-21 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities.
 - [mybatis/mybatis-3](https://github.com/mybatis/mybatis-3) - MyBatis SQL mapper framework for Java
 - [uber/NullAway](https://github.com/uber/NullAway) - A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead
@@ -2873,7 +2873,7 @@
 - [kylestratis/roam-weekly-review](https://github.com/kylestratis/roam-weekly-review) - An Alfred workflow that generates content for a weekly review in Roam
 - [kylestratis/roam-daily-notes](https://github.com/kylestratis/roam-daily-notes) - An Alfred workflow for setting daily notes in Roam, including a retrospective space
 - [kylestratis/roam-weekly-plan](https://github.com/kylestratis/roam-weekly-plan) - Script repo for Alfred workflow that generates a Roam weekly plan template
-- [aidam38/roamsr](https://github.com/aidam38/roamsr) - Spaced Repetition in Roam Research
+- [akrivka/roamsr](https://github.com/akrivka/roamsr) - Spaced Repetition in Roam Research
 - [scriban/scriban](https://github.com/scriban/scriban) - A fast, powerful, safe and lightweight scripting language and engine for .NET
 - [damienbod/AspNetCoreCsvImportExport](https://github.com/damienbod/AspNetCoreCsvImportExport) - ASP.NET Core CSV import export custom formatters
 - [damienbod/AspNetCoreFilters](https://github.com/damienbod/AspNetCoreFilters) - ASP.NET Core MVC Filters
@@ -4087,13 +4087,13 @@
 
 ## spring 
 
-- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
+- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
 - [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) - Spring Framework
 
 ## spring-boot 
 
 - [jonashackt/spring-boot-vuejs](https://github.com/jonashackt/spring-boot-vuejs) - Example project showing how to build a Spring Boot App providing a GUI with Vue.js
-- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
+- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
 
 ## sql 
 
