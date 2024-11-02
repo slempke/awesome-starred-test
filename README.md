@@ -1045,7 +1045,6 @@
 - [Monokai/monokai-pro-sublime-text](https://github.com/Monokai/monokai-pro-sublime-text) - Monokai Pro: beautiful functionality for professional developers
 - [ForrestKnight/open-source-cs](https://github.com/ForrestKnight/open-source-cs) - Video discussing this curriculum:
 - [raindropio/developer-site](https://github.com/raindropio/developer-site) - Official documentation for Raindrop.io API
-- [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
 - [jkup/awesome-personal-blogs](https://github.com/jkup/awesome-personal-blogs) - A delightful list of personal tech blogs
 - [jhelvy/jKeyboard](https://github.com/jhelvy/jKeyboard) - Files for creating my custom keyboard, including my Karabiner-Elements settings and WASD Keyboard layout files
 - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
@@ -1421,7 +1420,7 @@
 - [phyllisstein/Workflows](https://github.com/phyllisstein/Workflows) - A collection of Alfred v2 workflows that are no longer maintained.
 - [JakeWharton/pidcat](https://github.com/JakeWharton/pidcat) - Colored logcat script which only shows log entries for a specific application package.
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
-- [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
+- [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
 - [pocari/vim-denite-gists](https://github.com/pocari/vim-denite-gists) - denite.nvim plugin for show and browse Gist
 - [gtimelog/gtimelog](https://github.com/gtimelog/gtimelog) - A time tracking application
 - [trimailov/timeflow](https://github.com/trimailov/timeflow) - Simple cli time tracker inspired by gtimelog
