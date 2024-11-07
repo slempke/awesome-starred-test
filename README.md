@@ -1042,7 +1042,7 @@
 - [ErikCH/DevYouTubeList](https://github.com/ErikCH/DevYouTubeList) - List of Development YouTube Channels
 - [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19) - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
 - [sirredbeard/awesome-unix](https://github.com/sirredbeard/awesome-unix) - All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
-- [monokai-pro/sublime-text](https://github.com/monokai-pro/sublime-text) - Monokai Pro: beautiful functionality for professional developers
+- [monokai-pro/sublime-text](https://github.com/monokai-pro/sublime-text) - Issue tracking for Monokai Pro for Visual Studio Code
 - [ForrestKnight/open-source-cs](https://github.com/ForrestKnight/open-source-cs) - Video discussing this curriculum:
 - [raindropio/developer-site](https://github.com/raindropio/developer-site) - Official documentation for Raindrop.io API
 - [jkup/awesome-personal-blogs](https://github.com/jkup/awesome-personal-blogs) - A delightful list of personal tech blogs
@@ -1206,7 +1206,7 @@
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 - [aonez/Keka](https://github.com/aonez/Keka) - The macOS & iOS file archiver
 - [nystudio107/craft-imageoptimize](https://github.com/nystudio107/craft-imageoptimize) - Automatically create & optimize responsive image transforms, using either native Craft transforms or a service like Imgix, with zero template changes.
-- [MikoMagni/Alfrello](https://github.com/MikoMagni/Alfrello) - Alfred Workflow for creating cards on a Trello board
+- [mikomagni/Alfrello](https://github.com/mikomagni/Alfrello) - Alfred Workflow for creating cards on a Trello board
 - [kijin/pinboard-api](https://github.com/kijin/pinboard-api) - Pinboard API Client in PHP
 - [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
 - [joypixels/emojione](https://github.com/joypixels/emojione) - [Archived] The world's largest independent emoji font. Maintained at https://github.com/joypixels/emoji-toolkit.
