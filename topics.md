@@ -426,7 +426,7 @@
 - [briangonzalez/awesome-applescripts](https://github.com/briangonzalez/awesome-applescripts) - A collection of awesome, useful, not-so-obvious applescripts.
 - [phanan/htaccess](https://github.com/phanan/htaccess) - ✂A collection of useful .htaccess snippets.
 - [RichardLitt/awesome-styleguides](https://github.com/RichardLitt/awesome-styleguides) - :clipboard: A list of styleguides
-- [emptymalei/awesome-research](https://github.com/emptymalei/awesome-research) - :seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is Not Maintained Anymore]
+- [emptymalei/awesome-research](https://github.com/emptymalei/awesome-research) - :seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is deprecated. Instead, I maintain all the contents u
 - [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters
 - [learn-anything/blogs](https://github.com/learn-anything/blogs) - Awesome Blogs
 - [jyguyomarch/awesome-productivity](https://github.com/jyguyomarch/awesome-productivity) - A curated list of delightful productivity resources.
@@ -516,7 +516,7 @@
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [phanan/htaccess](https://github.com/phanan/htaccess) - ✂A collection of useful .htaccess snippets.
 - [RichardLitt/awesome-styleguides](https://github.com/RichardLitt/awesome-styleguides) - :clipboard: A list of styleguides
-- [emptymalei/awesome-research](https://github.com/emptymalei/awesome-research) - :seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is Not Maintained Anymore]
+- [emptymalei/awesome-research](https://github.com/emptymalei/awesome-research) - :seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is deprecated. Instead, I maintain all the contents u
 - [zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) - A list of amazing Newsletters
 - [learn-anything/blogs](https://github.com/learn-anything/blogs) - Awesome Blogs
 - [jyguyomarch/awesome-productivity](https://github.com/jyguyomarch/awesome-productivity) - A curated list of delightful productivity resources.
@@ -1739,7 +1739,6 @@
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [rbenv/ruby-build](https://github.com/rbenv/ruby-build) - A tool to download, compile, and install Ruby on Unix-like systems.
 - [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
-- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
 - [tinysearch/tinysearch](https://github.com/tinysearch/tinysearch) - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
@@ -1781,7 +1780,6 @@
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [quickwords/quickwords](https://github.com/quickwords/quickwords) - Quickwords is a productivity app, to get on with your work quicker.
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [SebastienElet/dotfiles](https://github.com/SebastienElet/dotfiles) - 🔧 My dotfiles
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [honestbleeps/Reddit-Enhancement-Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - Reddit Enhancement Suite
@@ -2980,7 +2978,7 @@
 - [robb0wen/synthwave-vscode](https://github.com/robb0wen/synthwave-vscode) - Synthwave inspired colour theme for VS Code 🌅🕶
 - [DankNeon/iterm](https://github.com/DankNeon/iterm) - A danker, more neon theme for iTerm
 - [MichaelAquilina/zsh-you-should-use](https://github.com/MichaelAquilina/zsh-you-should-use) - 📎 ZSH plugin that reminds you to use existing aliases for commands you just typed
-- [monokai-pro/sublime-text](https://github.com/monokai-pro/sublime-text) - Monokai Pro: beautiful functionality for professional developers
+- [monokai-pro/sublime-text](https://github.com/monokai-pro/sublime-text) - Issue tracking for Monokai Pro for Visual Studio Code
 - [raindropio/developer-site](https://github.com/raindropio/developer-site) - Official documentation for Raindrop.io API
 - [jkup/awesome-personal-blogs](https://github.com/jkup/awesome-personal-blogs) - A delightful list of personal tech blogs
 - [jhelvy/jKeyboard](https://github.com/jhelvy/jKeyboard) - Files for creating my custom keyboard, including my Karabiner-Elements settings and WASD Keyboard layout files
@@ -3229,7 +3227,7 @@
 - [mikolajdobrucki/ikonate](https://github.com/mikolajdobrucki/ikonate) - Fully customisable & accessible vector icons
 - [larsenwork/monoid](https://github.com/larsenwork/monoid) - Customisable coding font with alternates, ligatures and contextual positioning. Crazy crisp at 12px/9pt. http://larsenwork.com/monoid/
 - [nickytonline/alfred-workflows](https://github.com/nickytonline/alfred-workflows) - Hopefully useful workflows for Alfred
-- [MikoMagni/Alfrello](https://github.com/MikoMagni/Alfrello) - Alfred Workflow for creating cards on a Trello board
+- [mikomagni/Alfrello](https://github.com/mikomagni/Alfrello) - Alfred Workflow for creating cards on a Trello board
 - [GoogleChromeLabs/ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - FireBug for designers › Edit any webpage, in any state https://a.nerdy.dev/gimme-visbug
 - [hholtmann/smcFanControl](https://github.com/hholtmann/smcFanControl) - Control the fans of every Intel Mac to make it run cooler
 - [wilsonmar/mac-setup](https://github.com/wilsonmar/mac-setup) - :rocket: Automatically install, configure, and run the most popular programs of several stacks to work offline on a Mac and in clouds.
@@ -3890,7 +3888,7 @@
 - [agrinman/tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
-- [lotabout/skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
+- [skim-rs/skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust!
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [learning-rust/learning-rust.github.io](https://github.com/learning-rust/learning-rust.github.io) - Rust Programming Language Tutorials for Everyone!
 - [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
