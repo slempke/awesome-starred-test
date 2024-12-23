@@ -1030,7 +1030,7 @@
 - [jondot/awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
 - [NetCoreApps/LiveDemos](https://github.com/NetCoreApps/LiveDemos) - .NET Core Live Demos of ServiceStack Apps
-- [nikitavoloboev/data](https://github.com/nikitavoloboev/data) - All kind of data
+- [nikitavoloboev/data](https://github.com/nikitavoloboev/data) - All kinds of data
 - [ChALkeR/notes](https://github.com/ChALkeR/notes) - Some public notes
 - [RehanSaeed/EditorConfig](https://github.com/RehanSaeed/EditorConfig) - A very generic .editorconfig file supporting .NET, C#, VB and web technologies.
 - [adamsitnik/awesome-dot-net-performance](https://github.com/adamsitnik/awesome-dot-net-performance) - A curated list of awesome .NET Performance books, courses, trainings, conference talks, blogs and most inspiring open source contributors. Inspired by awesome-... stuff.
