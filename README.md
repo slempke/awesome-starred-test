@@ -1677,7 +1677,7 @@
 - [vitorgalvao/tiny-scripts](https://github.com/vitorgalvao/tiny-scripts) - Collection of small scripts
 - [rjames86/dotfiles](https://github.com/rjames86/dotfiles) - 
 - [mzdr/macOS](https://github.com/mzdr/macOS) - 💻 When I do a clean macOS installation.
-- [japorized/dotfiles](https://github.com/japorized/dotfiles) - 🔰 Opinionated configurations for this relatively new and under-educated power user
+- [japorized/dotfiles](https://github.com/japorized/dotfiles) - 🔰 Opinionated configurations for this relatively new and under-educated power user | Outdated | Head on over to https://gitlab.com/japorized/dotfiles
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt
 - [matryer/xbar-plugins](https://github.com/matryer/xbar-plugins) - Plugin repository for xbar (the BitBar reboot)
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
