@@ -919,7 +919,7 @@
 - [dotnetcore/Magicodes.IE](https://github.com/dotnetcore/Magicodes.IE) - Import and export general library, support Dto import and export, template export, fancy export and dynamic export, support Excel, Csv, Word, Pdf and Html.
 - [dotnet/docs](https://github.com/dotnet/docs) - This repository contains .NET Documentation.
 - [Cinchoo/ChoETL](https://github.com/Cinchoo/ChoETL) - ETL framework for .NET (Parser / Writer for CSV, Flat, Xml, JSON, Key-Value, Parquet, Yaml, Avro formatted files)
-- [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A starting point for Clean Architecture with ASP.NET Core
+- [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A proven Clean Architecture Template for ASP.NET Core 9
 - [sqlkata/querybuilder](https://github.com/sqlkata/querybuilder) - SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird
 - [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) - Blazor Component Library based on Material Design principles with an emphasis on ease of use and extensibility
 - [MikhailMasny/useful-web-pages](https://github.com/MikhailMasny/useful-web-pages) - 📚 A set of useful links for a web developer, including links to topics such as Git, HTML, CSS, JavaScript, various extensions for VS, VS Code, Chrome, Back-end, and Front-end Frameworks and etc.
@@ -1218,7 +1218,7 @@
 - [dotnetcore/Magicodes.IE](https://github.com/dotnetcore/Magicodes.IE) - Import and export general library, support Dto import and export, template export, fancy export and dynamic export, support Excel, Csv, Word, Pdf and Html.
 - [dotnet/docs](https://github.com/dotnet/docs) - This repository contains .NET Documentation.
 - [Cinchoo/ChoETL](https://github.com/Cinchoo/ChoETL) - ETL framework for .NET (Parser / Writer for CSV, Flat, Xml, JSON, Key-Value, Parquet, Yaml, Avro formatted files)
-- [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A starting point for Clean Architecture with ASP.NET Core
+- [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A proven Clean Architecture Template for ASP.NET Core 9
 - [SaiGonSoftware/Awesome-CMS-Core](https://github.com/SaiGonSoftware/Awesome-CMS-Core) - Awesome CMS Core is an open source CMS built using ASP.Net Core & ReactJS with module seperation concern in mind and provide lastest trend of technology like .Net Core, React, Webpack, SASS, Backgroun
 - [MikhailMasny/useful-web-pages](https://github.com/MikhailMasny/useful-web-pages) - 📚 A set of useful links for a web developer, including links to topics such as Git, HTML, CSS, JavaScript, various extensions for VS, VS Code, Chrome, Back-end, and Front-end Frameworks and etc.
 - [dotnet/orleans](https://github.com/dotnet/orleans) - Cloud Native application framework for .NET
@@ -1704,7 +1704,7 @@
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 - [dotnet/docs](https://github.com/dotnet/docs) - This repository contains .NET Documentation.
 - [JoshClose/CsvHelper](https://github.com/JoshClose/CsvHelper) - Library to help reading and writing CSV files
-- [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A starting point for Clean Architecture with ASP.NET Core
+- [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A proven Clean Architecture Template for ASP.NET Core 9
 - [dotnet/efcore](https://github.com/dotnet/efcore) - EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.
 - [Excel-DNA/ExcelDna](https://github.com/Excel-DNA/ExcelDna) - Excel-DNA - Free and easy .NET for Excel. This repository contains the core Excel-DNA library.
 - [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) - Blazor Component Library based on Material Design principles with an emphasis on ease of use and extensibility
