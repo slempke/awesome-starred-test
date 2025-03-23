@@ -918,6 +918,7 @@
 - [rtoshiro/hammerspoon-init](https://github.com/rtoshiro/hammerspoon-init) - Hammerspoon init.lua file.
 - [daynin/dotfiles](https://github.com/daynin/dotfiles) - :metal: My collection of dotfiles for neovim, tmux, etc
 - [ashfinal/awesome-hammerspoon](https://github.com/ashfinal/awesome-hammerspoon) - awesome configuration for Hammerspoon.
+- [raulchen/dotfiles](https://github.com/raulchen/dotfiles) - 
 - [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 
 ## MDX 
@@ -1680,7 +1681,7 @@
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [caarlos0/dotfiles.zsh](https://github.com/caarlos0/dotfiles.zsh) - Config files for ZSH, Java, Ruby, Go, Editors, Terminals and more.
-- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
+- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS
 - [Mte90/My-Scripts](https://github.com/Mte90/My-Scripts) - My collection of my homemade scripts (or not)
 - [vitorgalvao/notificator](https://github.com/vitorgalvao/notificator) - Trigger macOS notifications from Alfred, using the Workflow icon
 - [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim: Modular, customizable, and blazing fast Zsh framework
@@ -1995,7 +1996,6 @@
 - [wsdjeg/SpaceVim](https://github.com/wsdjeg/SpaceVim) - A modular configuration of Vim and Neovim
 - [stenver/vim-dotfiles](https://github.com/stenver/vim-dotfiles) - 
 - [junegunn/limelight.vim](https://github.com/junegunn/limelight.vim) - :flashlight: All the world's indeed a stage and we are merely players
-- [raulchen/dotfiles](https://github.com/raulchen/dotfiles) - 
 - [jacoborus/tender.vim](https://github.com/jacoborus/tender.vim) - A 24bit colorscheme for Vim, Airline and Lightline
 - [tombeynon/dotfiles](https://github.com/tombeynon/dotfiles) - sweet, sweet config
 - [mhartington/oceanic-next](https://github.com/mhartington/oceanic-next) - Oceanic Next theme for neovim
