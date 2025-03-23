@@ -457,7 +457,7 @@
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 - [dexteryy/spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev) - A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
-- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
+- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS
 - [bnb/awesome-awesome-nodejs](https://github.com/bnb/awesome-awesome-nodejs) - 🐢🚀 An Awesome list of Awesome lists related to Node.js.
 - [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
 - [junosuarez/awesome-npx](https://github.com/junosuarez/awesome-npx) - 🌟 packages and resources that work really well with https://github.com/zkat/npx 🕶
@@ -608,7 +608,7 @@
 - [powerline/powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
 - [liquidprompt/liquidprompt](https://github.com/liquidprompt/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
-- [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-stag
+- [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-staged, gluegun, 
 - [mac-cleanup/mac-cleanup-sh](https://github.com/mac-cleanup/mac-cleanup-sh) - 🗑️ Cleanup script for macOS (DEPRECATED)
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
 - [pawamoy/shell-history](https://github.com/pawamoy/shell-history) - Visualize your shell usage with Highcharts!
@@ -789,7 +789,7 @@
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
-- [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-stag
+- [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-staged, gluegun, 
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
 - [vercel/micro-dev](https://github.com/vercel/micro-dev) - The development environment for `micro`
 - [sindresorhus/np](https://github.com/sindresorhus/np) - A better `npm publish`
@@ -1188,7 +1188,7 @@
 - [trautwein/dotfiles](https://github.com/trautwein/dotfiles) - Personal dotfiles
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [caarlos0/dotfiles.zsh](https://github.com/caarlos0/dotfiles.zsh) - Config files for ZSH, Java, Ruby, Go, Editors, Terminals and more.
-- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
+- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS
 - [gokulkrishh/dotfiles](https://github.com/gokulkrishh/dotfiles) - Setup your MacOS for web development in few minutes.
 - [wincent/wincent](https://github.com/wincent/wincent) - 💾 Dot-files
 - [TomLingham/dotfiles](https://github.com/TomLingham/dotfiles) - Tom's Dotfiles
@@ -1838,7 +1838,6 @@
 - [mislav/hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
 - [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 - [Homebrew/homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts) - 💀 Casks of Ｆ🅾𝓝𝐓𝚂 (deprecated)
-- [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.
 - [zedtux/brewformulas.org](https://github.com/zedtux/brewformulas.org) - A website to search and discover formulas from Homebrew for Mac
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 
@@ -1947,7 +1946,7 @@
 - [material-components/material-components-ios](https://github.com/material-components/material-components-ios) - [In maintenance mode] Modular and customizable Material Design UI components for iOS
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
 - [bjango/Bjango-Templates](https://github.com/bjango/Bjango-Templates) - Design templates for Android, iOS, macOS, Apple TV (tvOS), Apple Watch (watchOS), Windows, Windows Phone and web favicons.
-- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
+- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS
 - [expo/create-react-native-app](https://github.com/expo/create-react-native-app) - Create React Native apps that run on iOS, Android, and web
 
 ## iot 
@@ -2429,7 +2428,7 @@
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 - [qvacua/vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
-- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
+- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS
 - [vitorgalvao/notificator](https://github.com/vitorgalvao/notificator) - Trigger macOS notifications from Alfred, using the Workflow icon
 - [w0lfschild/macplugins](https://github.com/w0lfschild/macplugins) - :green_book: Community repo for MacForge
 - [sindresorhus/iterm2-snazzy](https://github.com/sindresorhus/iterm2-snazzy) - Elegant iTerm2 theme with bright colors
@@ -2652,7 +2651,6 @@
 - [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
-- [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-stag
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
 - [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
@@ -2686,7 +2684,6 @@
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
 - [sindresorhus/trash](https://github.com/sindresorhus/trash) - Move files and directories to the trash
-- [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-stag
 - [withspectrum/spectrum](https://github.com/withspectrum/spectrum) - Simple, powerful online communities.
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists
 - [sindresorhus/xbar](https://github.com/sindresorhus/xbar) - Simplifies BitBar app plugin creation
@@ -3465,6 +3462,7 @@
 - [atom-material/atom-material-ui](https://github.com/atom-material/atom-material-ui) - A dynamic UI theme for Atom that follows Google's Material Design Guidelines
 - [fizzed/font-mfizz](https://github.com/fizzed/font-mfizz) - Font Mfizz - Vector Icons for Technology and Software Geeks
 - [vitorgalvao/homebrew-tiny-scripts](https://github.com/vitorgalvao/homebrew-tiny-scripts) - Homebrew tap for my tiny-scripts repos
+- [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 💀 Homebrew Bundle (deprecated)
 - [hacksalot/HackMyResume](https://github.com/hacksalot/HackMyResume) - Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon.
 - [rach/pome](https://github.com/rach/pome) - A Postgres Metrics Dashboard
 - [VerbalExpressions/JSVerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions) - JavaScript Regular expressions made easy
@@ -3880,7 +3878,6 @@
 - [julienXX/terminal-notifier](https://github.com/julienXX/terminal-notifier) - Send User Notifications on macOS from the command-line.
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
 - [geerlingguy/ansible-vagrant-examples](https://github.com/geerlingguy/ansible-vagrant-examples) - Ansible examples using Vagrant to deploy to local VMs.
-- [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.
 - [rvm/rvm](https://github.com/rvm/rvm) - Ruby enVironment Manager (RVM)
 
 ## rust 
@@ -4022,7 +4019,7 @@
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [bpkg/bpkg](https://github.com/bpkg/bpkg) - Lightweight bash package manager
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
-- [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-stag
+- [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-staged, gluegun, 
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [narze/dotfiles](https://github.com/narze/dotfiles) - macOS / Linux / Codespaces compatible dotfiles with 1-line setup script. Tested on Apple Silicon Macs. Supports both zsh and fish. Managed with Chezmoi
@@ -4250,7 +4247,7 @@
 - [cbucher/console](https://github.com/cbucher/console) - This is a modified version of Console 2 for a better experience under Windows Vista/7/8/10 and a better visual rendering.
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
-- [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-stag
+- [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-staged, gluegun, 
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python
 - [kdeldycke/dotfiles](https://github.com/kdeldycke/dotfiles) - 🍎 macOS dotfiles for Python developers.
