@@ -1620,7 +1620,6 @@
 - [liquidprompt/liquidprompt](https://github.com/liquidprompt/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
 - [mskyaxl/wsl-terminal](https://github.com/mskyaxl/wsl-terminal) - Terminal emulator for Windows Subsystem for Linux (WSL)
 - [narze/dotfiles](https://github.com/narze/dotfiles) - macOS / Linux / Codespaces compatible dotfiles with 1-line setup script. Tested on Apple Silicon Macs. Supports both zsh and fish. Managed with Chezmoi
-- [afresh1/dotfiles](https://github.com/afresh1/dotfiles) - My dotfiles
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [mac-cleanup/mac-cleanup-sh](https://github.com/mac-cleanup/mac-cleanup-sh) - 🗑️ Cleanup script for macOS (DEPRECATED)
 - [saschagrunert/dotfiles](https://github.com/saschagrunert/dotfiles) - My hand crafted .dotfiles 🤚🛠❤️
@@ -1975,6 +1974,7 @@
 - [junegunn/goyo.vim](https://github.com/junegunn/goyo.vim) - :tulip: Distraction-free writing in Vim
 - [preservim/vim-markdown](https://github.com/preservim/vim-markdown) - Markdown Vim Mode
 - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
+- [afresh1/dotfiles](https://github.com/afresh1/dotfiles) - My dotfiles
 - [mattjmorrison/dotfiles](https://github.com/mattjmorrison/dotfiles) - Dotfiles and an install script for easy set up
 - [vsouza/dotfiles](https://github.com/vsouza/dotfiles) - :house_with_garden: My dotfiles
 - [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim
