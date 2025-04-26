@@ -302,7 +302,6 @@
 - [markdowncss/markdowncss.github.io](https://github.com/markdowncss/markdowncss.github.io) - Where all the MarkdownCSS themes live.
 - [vitorgalvao/fog](https://github.com/vitorgalvao/fog) - Unofficial overcast.fm podcast app
 - [csstools/sanitize.css](https://github.com/csstools/sanitize.css) - A best-practices CSS foundation
-- [nglgzz/dots](https://github.com/nglgzz/dots) - Dot files for Arch environment with i3 window manager.
 - [assemble/assemble](https://github.com/assemble/assemble) - Get the rocks out of your socks! Assemble makes you fast at web development! Used by thousands of projects for rapid prototyping, themes, scaffolds, boilerplates, e-books, UI components, API documenta
 - [minamarkham/sassy-starter](https://github.com/minamarkham/sassy-starter) - :tada: Sassy starter - HTML / SCSS (SMACSS)
 - [adobe-fonts/source-sans](https://github.com/adobe-fonts/source-sans) - Sans serif font family for user interface environments
@@ -923,7 +922,7 @@
 
 - [daneden/daneden.me](https://github.com/daneden/daneden.me) - 🏡 This is my website. There are many like it, but this one is mine.
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-- [nikitavoloboev/nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev) - Personal website, docs
+- [nikitavoloboev/nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs
 - [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - 🌐 Front End interview preparation materials for busy engineers (updated for 2025)
 
 ## Makefile 
@@ -1983,6 +1982,7 @@
 - [ayu-theme/ayu-vim](https://github.com/ayu-theme/ayu-vim) - Modern theme for modern VIMs
 - [trautwein/dotfiles](https://github.com/trautwein/dotfiles) - Personal dotfiles
 - [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim) - A light and configurable statusline/tabline plugin for Vim
+- [nglgzz/dots](https://github.com/nglgzz/dots) - Dot files for Arch environment with i3 window manager.
 - [kien/ctrlp.vim](https://github.com/kien/ctrlp.vim) - Fuzzy file, buffer, mru, tag, etc finder.
 - [wincent/wincent](https://github.com/wincent/wincent) - 💾 Dot-files
 - [dbmrq/Dotfiles](https://github.com/dbmrq/Dotfiles) - :house_with_garden: There's no place like ~/
