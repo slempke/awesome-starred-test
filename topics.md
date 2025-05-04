@@ -231,6 +231,7 @@
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
+- [ui-design](#ui-design)
 - [unity](#unity)
 - [vagrant](#vagrant)
 - [vim](#vim)
@@ -4366,6 +4367,11 @@
 - [givip/Telegrammer](https://github.com/givip/Telegrammer) - Telegram Bot - written with Swift 5.2 / NIO, supports Linux, macOS
 - [mmphego/new-computer](https://github.com/mmphego/new-computer) - Bash script to install everything I need, after a fresh [X]Ubuntu system install.
 - [alrra/dotfiles](https://github.com/alrra/dotfiles) - 💻 macOS / Ubuntu dotfiles
+
+## ui-design 
+
+- [AnimaApp/Auto-Layout](https://github.com/AnimaApp/Auto-Layout) - Auto Layout for Sketch
+- [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 
 ## unity 
 
