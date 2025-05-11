@@ -469,7 +469,7 @@
 - [harvesthq/chosen](https://github.com/harvesthq/chosen) - Deprecated - Chosen is a library for making long, unwieldy select boxes more friendly.
 - [themesberg/volt-bootstrap-5-dashboard](https://github.com/themesberg/volt-bootstrap-5-dashboard) - Free and open source Bootstrap 5 Admin Dashboard Template with vanilla Javascript
 - [themesberg/pixel-bootstrap-ui-kit](https://github.com/themesberg/pixel-bootstrap-ui-kit) - Pixel UI Kit - Free and open source Bootstrap 5 UI Kit without jQuery
-- [crisrojas/Zettels](https://github.com/crisrojas/Zettels) - Zettels Hugo Theme
+- [crisfeim/Zettels](https://github.com/crisfeim/Zettels) - Zettels Hugo Theme
 - [RickStrahl/MarkdownMonster](https://github.com/RickStrahl/MarkdownMonster) - An extensible Markdown Editor, Viewer and Weblog Publisher for Windows
 - [DankNeon/iterm](https://github.com/DankNeon/iterm) - A danker, more neon theme for iTerm
 - [wesbos/beginner-javascript](https://github.com/wesbos/beginner-javascript) - Slam Dunk JavaScript
