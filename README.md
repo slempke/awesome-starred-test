@@ -211,7 +211,7 @@
 - [PowerShell/PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer) - Download ScriptAnalyzer from PowerShellGallery
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file
 - [dotnet/docfx](https://github.com/dotnet/docfx) - Static site generator for .NET API documentation.
-- [NLog/NLog](https://github.com/NLog/NLog) - NLog - Advanced and Structured Logging for Various .NET Platforms
+- [NLog/NLog](https://github.com/NLog/NLog) - NLog - Flexible and Structured Logging for Various .NET Platforms
 - [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) - :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
 - [nodatime/nodatime](https://github.com/nodatime/nodatime) - A better date and time API for .NET
 - [mayerwin/vs-customize-window-title](https://github.com/mayerwin/vs-customize-window-title) - Customize Visual Studio Window Title - Visual Studio Extension
