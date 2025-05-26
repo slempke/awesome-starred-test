@@ -2969,7 +2969,7 @@
 - [pop-os/shell](https://github.com/pop-os/shell) - Pop!_OS Shell
 - [nodatime/nodatime](https://github.com/nodatime/nodatime) - A better date and time API for .NET
 - [mayerwin/vs-customize-window-title](https://github.com/mayerwin/vs-customize-window-title) - Customize Visual Studio Window Title - Visual Studio Extension
-- [crisfeim/Zettels](https://github.com/crisfeim/Zettels) - Zettels Hugo Theme
+- [crisfeim/theme-hugo-bearnotes](https://github.com/crisfeim/theme-hugo-bearnotes) - 🎨 Bear Notes Hugo Theme
 - [randyrants/sharpkeys](https://github.com/randyrants/sharpkeys) - SharpKeys is a utility that manages a Registry key that allows Windows to remap one key to any other key.
 - [OrchardCMS/OrchardCore](https://github.com/OrchardCMS/OrchardCore) - Orchard Core is an open-source modular and multi-tenant application framework built with ASP.NET Core, and a content management system (CMS) built on top of that framework.
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
